@@ -1,0 +1,1478 @@
+created_month,created_year,cd,total_requests,serviced_month,requesttype,count_service,avg_request_closed,percentage_service
+January,2020,Council District 1,5890,January,Bulky Items,3088,4,52.43
+January,2020,Council District 1,5890,January,Electronic Waste,203,3,3.45
+January,2020,Council District 1,5890,January,Graffiti Removal,1206,4,20.48
+January,2020,Council District 1,5890,January,Homeless Encampment,231,56,3.92
+January,2020,Council District 1,5890,January,Illegal Dumping Pickup,568,11,9.64
+January,2020,Council District 1,5890,January,Metal/Household Appliances,489,3,8.3
+January,2020,Council District 1,5890,January,Multiple Streetlight Issue,33,40,0.56
+January,2020,Council District 1,5890,January,Single Streetlight Issue,72,46,1.22
+January,2020,Council District 2,6694,January,Bulky Items,4050,3,60.5
+January,2020,Council District 2,6694,January,Electronic Waste,237,3,3.54
+January,2020,Council District 2,6694,January,Graffiti Removal,864,3,12.91
+January,2020,Council District 2,6694,January,Homeless Encampment,348,56,5.2
+January,2020,Council District 2,6694,January,Illegal Dumping Pickup,542,9,8.1
+January,2020,Council District 2,6694,January,Metal/Household Appliances,606,3,9.05
+January,2020,Council District 2,6694,January,Multiple Streetlight Issue,20,27,0.3
+January,2020,Council District 2,6694,January,Single Streetlight Issue,27,12,0.4
+January,2020,Council District 3,6079,January,Bulky Items,3495,3,57.49
+January,2020,Council District 3,6079,January,Electronic Waste,232,3,3.82
+January,2020,Council District 3,6079,January,Graffiti Removal,536,1,8.82
+January,2020,Council District 3,6079,January,Homeless Encampment,656,27,10.79
+January,2020,Council District 3,6079,January,Illegal Dumping Pickup,416,9,6.84
+January,2020,Council District 3,6079,January,Metal/Household Appliances,700,3,11.52
+January,2020,Council District 3,6079,January,Multiple Streetlight Issue,15,19,0.25
+January,2020,Council District 3,6079,January,Single Streetlight Issue,29,5,0.48
+January,2020,Council District 4,5891,January,Bulky Items,3738,3,63.45
+January,2020,Council District 4,5891,January,Electronic Waste,227,2,3.85
+January,2020,Council District 4,5891,January,Graffiti Removal,450,5,7.64
+January,2020,Council District 4,5891,January,Homeless Encampment,321,43,5.45
+January,2020,Council District 4,5891,January,Illegal Dumping Pickup,397,9,6.74
+January,2020,Council District 4,5891,January,Metal/Household Appliances,621,2,10.54
+January,2020,Council District 4,5891,January,Multiple Streetlight Issue,53,37,0.9
+January,2020,Council District 4,5891,January,Single Streetlight Issue,84,32,1.43
+January,2020,Council District 5,4826,January,Bulky Items,2939,3,60.9
+January,2020,Council District 5,4826,January,Dead Animal Removal,1,0,0.02
+January,2020,Council District 5,4826,January,Electronic Waste,199,2,4.12
+January,2020,Council District 5,4826,January,Graffiti Removal,365,7,7.56
+January,2020,Council District 5,4826,January,Homeless Encampment,386,35,8.0
+January,2020,Council District 5,4826,January,Illegal Dumping Pickup,279,10,5.78
+January,2020,Council District 5,4826,January,Metal/Household Appliances,553,3,11.46
+January,2020,Council District 5,4826,January,Multiple Streetlight Issue,24,10,0.5
+January,2020,Council District 5,4826,January,Single Streetlight Issue,80,7,1.66
+January,2020,Council District 6,7749,January,Bulky Items,3951,3,50.99
+January,2020,Council District 6,7749,January,Electronic Waste,282,2,3.64
+January,2020,Council District 6,7749,January,Graffiti Removal,853,1,11.01
+January,2020,Council District 6,7749,January,Homeless Encampment,411,38,5.3
+January,2020,Council District 6,7749,January,Illegal Dumping Pickup,1629,7,21.02
+January,2020,Council District 6,7749,January,Metal/Household Appliances,579,3,7.47
+January,2020,Council District 6,7749,January,Multiple Streetlight Issue,23,38,0.3
+January,2020,Council District 6,7749,January,Single Streetlight Issue,21,21,0.27
+January,2020,Council District 7,5552,January,Bulky Items,3618,3,65.17
+January,2020,Council District 7,5552,January,Electronic Waste,282,2,5.08
+January,2020,Council District 7,5552,January,Graffiti Removal,259,2,4.66
+January,2020,Council District 7,5552,January,Homeless Encampment,210,35,3.78
+January,2020,Council District 7,5552,January,Illegal Dumping Pickup,433,6,7.8
+January,2020,Council District 7,5552,January,Metal/Household Appliances,722,3,13.0
+January,2020,Council District 7,5552,January,Multiple Streetlight Issue,9,33,0.16
+January,2020,Council District 7,5552,January,Single Streetlight Issue,19,22,0.34
+January,2020,Council District 8,6743,January,Bulky Items,4166,3,61.78
+January,2020,Council District 8,6743,January,Electronic Waste,309,2,4.58
+January,2020,Council District 8,6743,January,Graffiti Removal,309,8,4.58
+January,2020,Council District 8,6743,January,Homeless Encampment,119,47,1.76
+January,2020,Council District 8,6743,January,Illegal Dumping Pickup,1073,7,15.91
+January,2020,Council District 8,6743,January,Metal/Household Appliances,699,2,10.37
+January,2020,Council District 8,6743,January,Multiple Streetlight Issue,17,60,0.25
+January,2020,Council District 8,6743,January,Single Streetlight Issue,51,9,0.76
+January,2020,Council District 9,5826,January,Bulky Items,3041,4,52.2
+January,2020,Council District 9,5826,January,Electronic Waste,195,2,3.35
+January,2020,Council District 9,5826,January,Graffiti Removal,732,1,12.56
+January,2020,Council District 9,5826,January,Homeless Encampment,334,61,5.73
+January,2020,Council District 9,5826,January,Illegal Dumping Pickup,956,13,16.41
+January,2020,Council District 9,5826,January,Metal/Household Appliances,470,2,8.07
+January,2020,Council District 9,5826,January,Multiple Streetlight Issue,30,63,0.51
+January,2020,Council District 9,5826,January,Single Streetlight Issue,68,19,1.17
+January,2020,Council District 10,7786,January,Bulky Items,4123,3,52.95
+January,2020,Council District 10,7786,January,Electronic Waste,278,2,3.57
+January,2020,Council District 10,7786,January,Graffiti Removal,1433,6,18.4
+January,2020,Council District 10,7786,January,Homeless Encampment,378,50,4.85
+January,2020,Council District 10,7786,January,Illegal Dumping Pickup,888,6,11.41
+January,2020,Council District 10,7786,January,Metal/Household Appliances,628,3,8.07
+January,2020,Council District 10,7786,January,Multiple Streetlight Issue,15,63,0.19
+January,2020,Council District 10,7786,January,Single Streetlight Issue,43,23,0.55
+January,2020,Council District 11,5617,January,Bulky Items,3230,4,57.5
+January,2020,Council District 11,5617,January,Electronic Waste,165,3,2.94
+January,2020,Council District 11,5617,January,Graffiti Removal,699,7,12.44
+January,2020,Council District 11,5617,January,Homeless Encampment,561,47,9.99
+January,2020,Council District 11,5617,January,Illegal Dumping Pickup,334,11,5.95
+January,2020,Council District 11,5617,January,Metal/Household Appliances,590,3,10.5
+January,2020,Council District 11,5617,January,Multiple Streetlight Issue,7,5,0.12
+January,2020,Council District 11,5617,January,Single Streetlight Issue,31,1,0.55
+January,2020,Council District 12,6410,January,Bulky Items,3890,3,60.69
+January,2020,Council District 12,6410,January,Electronic Waste,282,3,4.4
+January,2020,Council District 12,6410,January,Graffiti Removal,642,1,10.02
+January,2020,Council District 12,6410,January,Homeless Encampment,254,57,3.96
+January,2020,Council District 12,6410,January,Illegal Dumping Pickup,359,8,5.6
+January,2020,Council District 12,6410,January,Metal/Household Appliances,917,3,14.31
+January,2020,Council District 12,6410,January,Multiple Streetlight Issue,33,80,0.51
+January,2020,Council District 12,6410,January,Single Streetlight Issue,33,13,0.51
+January,2020,Council District 13,7677,January,Bulky Items,4006,4,52.18
+January,2020,Council District 13,7677,January,Electronic Waste,265,2,3.45
+January,2020,Council District 13,7677,January,Graffiti Removal,1484,7,19.33
+January,2020,Council District 13,7677,January,Homeless Encampment,507,69,6.6
+January,2020,Council District 13,7677,January,Illegal Dumping Pickup,761,14,9.91
+January,2020,Council District 13,7677,January,Metal/Household Appliances,542,2,7.06
+January,2020,Council District 13,7677,January,Multiple Streetlight Issue,32,62,0.42
+January,2020,Council District 13,7677,January,Single Streetlight Issue,80,50,1.04
+January,2020,Council District 14,5835,January,Bulky Items,2949,4,50.54
+January,2020,Council District 14,5835,January,Electronic Waste,198,3,3.39
+January,2020,Council District 14,5835,January,Graffiti Removal,1149,7,19.69
+January,2020,Council District 14,5835,January,Homeless Encampment,417,67,7.15
+January,2020,Council District 14,5835,January,Illegal Dumping Pickup,569,20,9.75
+January,2020,Council District 14,5835,January,Metal/Household Appliances,438,3,7.51
+January,2020,Council District 14,5835,January,Multiple Streetlight Issue,48,56,0.82
+January,2020,Council District 14,5835,January,Single Streetlight Issue,67,86,1.15
+January,2020,Council District 15,5850,January,Bulky Items,3593,3,61.42
+January,2020,Council District 15,5850,January,Electronic Waste,240,3,4.1
+January,2020,Council District 15,5850,January,Graffiti Removal,417,2,7.13
+January,2020,Council District 15,5850,January,Homeless Encampment,143,36,2.44
+January,2020,Council District 15,5850,January,Illegal Dumping Pickup,732,7,12.51
+January,2020,Council District 15,5850,January,Metal/Household Appliances,665,3,11.37
+January,2020,Council District 15,5850,January,Multiple Streetlight Issue,21,69,0.36
+January,2020,Council District 15,5850,January,Single Streetlight Issue,39,14,0.67
+February,2020,Council District 1,4495,February,Bulky Items,2251,3,50.08
+February,2020,Council District 1,4495,February,Electronic Waste,140,2,3.11
+February,2020,Council District 1,4495,February,Graffiti Removal,1098,4,24.43
+February,2020,Council District 1,4495,February,Homeless Encampment,194,46,4.32
+February,2020,Council District 1,4495,February,Illegal Dumping Pickup,380,13,8.45
+February,2020,Council District 1,4495,February,Metal/Household Appliances,378,3,8.41
+February,2020,Council District 1,4495,February,Multiple Streetlight Issue,13,44,0.29
+February,2020,Council District 1,4495,February,Single Streetlight Issue,41,53,0.91
+February,2020,Council District 2,5507,February,Bulky Items,3205,3,58.2
+February,2020,Council District 2,5507,February,Electronic Waste,191,2,3.47
+February,2020,Council District 2,5507,February,Graffiti Removal,816,3,14.82
+February,2020,Council District 2,5507,February,Homeless Encampment,244,50,4.43
+February,2020,Council District 2,5507,February,Illegal Dumping Pickup,416,6,7.55
+February,2020,Council District 2,5507,February,Metal/Household Appliances,564,3,10.24
+February,2020,Council District 2,5507,February,Multiple Streetlight Issue,27,30,0.49
+February,2020,Council District 2,5507,February,Single Streetlight Issue,44,36,0.8
+February,2020,Council District 3,4958,February,Bulky Items,2880,3,58.09
+February,2020,Council District 3,4958,February,Electronic Waste,193,3,3.89
+February,2020,Council District 3,4958,February,Graffiti Removal,424,1,8.55
+February,2020,Council District 3,4958,February,Homeless Encampment,488,25,9.84
+February,2020,Council District 3,4958,February,Illegal Dumping Pickup,343,4,6.92
+February,2020,Council District 3,4958,February,Metal/Household Appliances,592,2,11.94
+February,2020,Council District 3,4958,February,Multiple Streetlight Issue,8,19,0.16
+February,2020,Council District 3,4958,February,Single Streetlight Issue,30,10,0.61
+February,2020,Council District 4,4481,February,Bulky Items,2796,3,62.4
+February,2020,Council District 4,4481,February,Electronic Waste,148,3,3.3
+February,2020,Council District 4,4481,February,Graffiti Removal,409,7,9.13
+February,2020,Council District 4,4481,February,Homeless Encampment,230,33,5.13
+February,2020,Council District 4,4481,February,Illegal Dumping Pickup,273,7,6.09
+February,2020,Council District 4,4481,February,Metal/Household Appliances,505,2,11.27
+February,2020,Council District 4,4481,February,Multiple Streetlight Issue,50,22,1.12
+February,2020,Council District 4,4481,February,Single Streetlight Issue,70,40,1.56
+February,2020,Council District 5,4334,February,Bulky Items,2581,3,59.55
+February,2020,Council District 5,4334,February,Electronic Waste,158,4,3.65
+February,2020,Council District 5,4334,February,Graffiti Removal,420,6,9.69
+February,2020,Council District 5,4334,February,Homeless Encampment,331,44,7.64
+February,2020,Council District 5,4334,February,Illegal Dumping Pickup,259,8,5.98
+February,2020,Council District 5,4334,February,Metal/Household Appliances,496,2,11.44
+February,2020,Council District 5,4334,February,Multiple Streetlight Issue,22,19,0.51
+February,2020,Council District 5,4334,February,Single Streetlight Issue,67,19,1.55
+February,2020,Council District 6,6447,February,Bulky Items,3119,2,48.38
+February,2020,Council District 6,6447,February,Electronic Waste,188,2,2.92
+February,2020,Council District 6,6447,February,Graffiti Removal,1080,1,16.75
+February,2020,Council District 6,6447,February,Homeless Encampment,302,40,4.68
+February,2020,Council District 6,6447,February,Illegal Dumping Pickup,1192,5,18.49
+February,2020,Council District 6,6447,February,Metal/Household Appliances,508,3,7.88
+February,2020,Council District 6,6447,February,Multiple Streetlight Issue,23,65,0.36
+February,2020,Council District 6,6447,February,Single Streetlight Issue,35,14,0.54
+February,2020,Council District 7,4483,February,Bulky Items,2932,3,65.4
+February,2020,Council District 7,4483,February,Electronic Waste,233,2,5.2
+February,2020,Council District 7,4483,February,Graffiti Removal,239,3,5.33
+February,2020,Council District 7,4483,February,Homeless Encampment,121,26,2.7
+February,2020,Council District 7,4483,February,Illegal Dumping Pickup,343,8,7.65
+February,2020,Council District 7,4483,February,Metal/Household Appliances,586,3,13.07
+February,2020,Council District 7,4483,February,Multiple Streetlight Issue,7,15,0.16
+February,2020,Council District 7,4483,February,Single Streetlight Issue,22,24,0.49
+February,2020,Council District 8,5509,February,Bulky Items,3349,3,60.79
+February,2020,Council District 8,5509,February,Electronic Waste,217,2,3.94
+February,2020,Council District 8,5509,February,Graffiti Removal,417,17,7.57
+February,2020,Council District 8,5509,February,Homeless Encampment,117,43,2.12
+February,2020,Council District 8,5509,February,Illegal Dumping Pickup,756,6,13.72
+February,2020,Council District 8,5509,February,Metal/Household Appliances,601,2,10.91
+February,2020,Council District 8,5509,February,Multiple Streetlight Issue,17,43,0.31
+February,2020,Council District 8,5509,February,Single Streetlight Issue,35,15,0.64
+February,2020,Council District 9,4747,February,Bulky Items,2346,3,49.42
+February,2020,Council District 9,4747,February,Dead Animal Removal,1,3,0.02
+February,2020,Council District 9,4747,February,Electronic Waste,129,2,2.72
+February,2020,Council District 9,4747,February,Graffiti Removal,832,2,17.53
+February,2020,Council District 9,4747,February,Homeless Encampment,260,59,5.48
+February,2020,Council District 9,4747,February,Illegal Dumping Pickup,695,11,14.64
+February,2020,Council District 9,4747,February,Metal/Household Appliances,376,3,7.92
+February,2020,Council District 9,4747,February,Multiple Streetlight Issue,45,27,0.95
+February,2020,Council District 9,4747,February,Single Streetlight Issue,63,21,1.33
+February,2020,Council District 10,6487,February,Bulky Items,3170,4,48.87
+February,2020,Council District 10,6487,February,Electronic Waste,203,3,3.13
+February,2020,Council District 10,6487,February,Graffiti Removal,1468,6,22.63
+February,2020,Council District 10,6487,February,Homeless Encampment,283,63,4.36
+February,2020,Council District 10,6487,February,Illegal Dumping Pickup,738,7,11.38
+February,2020,Council District 10,6487,February,Metal/Household Appliances,560,3,8.63
+February,2020,Council District 10,6487,February,Multiple Streetlight Issue,14,38,0.22
+February,2020,Council District 10,6487,February,Single Streetlight Issue,51,17,0.79
+February,2020,Council District 11,4633,February,Bulky Items,2649,4,57.18
+February,2020,Council District 11,4633,February,Electronic Waste,131,3,2.83
+February,2020,Council District 11,4633,February,Graffiti Removal,538,9,11.61
+February,2020,Council District 11,4633,February,Homeless Encampment,417,50,9.0
+February,2020,Council District 11,4633,February,Illegal Dumping Pickup,271,14,5.85
+February,2020,Council District 11,4633,February,Metal/Household Appliances,586,3,12.65
+February,2020,Council District 11,4633,February,Multiple Streetlight Issue,6,26,0.13
+February,2020,Council District 11,4633,February,Single Streetlight Issue,35,1,0.76
+February,2020,Council District 12,5188,February,Bulky Items,3169,3,61.08
+February,2020,Council District 12,5188,February,Electronic Waste,258,3,4.97
+February,2020,Council District 12,5188,February,Graffiti Removal,516,1,9.95
+February,2020,Council District 12,5188,February,Homeless Encampment,128,25,2.47
+February,2020,Council District 12,5188,February,Illegal Dumping Pickup,313,5,6.03
+February,2020,Council District 12,5188,February,Metal/Household Appliances,743,3,14.32
+February,2020,Council District 12,5188,February,Multiple Streetlight Issue,29,60,0.56
+February,2020,Council District 12,5188,February,Single Streetlight Issue,32,7,0.62
+February,2020,Council District 13,6010,February,Bulky Items,3057,4,50.87
+February,2020,Council District 13,6010,February,Electronic Waste,166,3,2.76
+February,2020,Council District 13,6010,February,Graffiti Removal,1219,5,20.28
+February,2020,Council District 13,6010,February,Homeless Encampment,437,65,7.27
+February,2020,Council District 13,6010,February,Illegal Dumping Pickup,534,9,8.89
+February,2020,Council District 13,6010,February,Metal/Household Appliances,515,2,8.57
+February,2020,Council District 13,6010,February,Multiple Streetlight Issue,23,38,0.38
+February,2020,Council District 13,6010,February,Single Streetlight Issue,59,34,0.98
+February,2020,Council District 14,5037,February,Bulky Items,2325,4,46.16
+February,2020,Council District 14,5037,February,Electronic Waste,155,3,3.08
+February,2020,Council District 14,5037,February,Graffiti Removal,1284,10,25.49
+February,2020,Council District 14,5037,February,Homeless Encampment,320,70,6.35
+February,2020,Council District 14,5037,February,Illegal Dumping Pickup,413,15,8.2
+February,2020,Council District 14,5037,February,Metal/Household Appliances,399,3,7.92
+February,2020,Council District 14,5037,February,Multiple Streetlight Issue,65,39,1.29
+February,2020,Council District 14,5037,February,Single Streetlight Issue,76,44,1.51
+February,2020,Council District 15,4470,February,Bulky Items,2802,3,62.68
+February,2020,Council District 15,4470,February,Electronic Waste,186,3,4.16
+February,2020,Council District 15,4470,February,Graffiti Removal,304,2,6.8
+February,2020,Council District 15,4470,February,Homeless Encampment,109,40,2.44
+February,2020,Council District 15,4470,February,Illegal Dumping Pickup,444,5,9.93
+February,2020,Council District 15,4470,February,Metal/Household Appliances,572,3,12.8
+February,2020,Council District 15,4470,February,Multiple Streetlight Issue,29,46,0.65
+February,2020,Council District 15,4470,February,Single Streetlight Issue,24,7,0.54
+March,2020,Council District 1,4999,March,Bulky Items,2549,3,50.99
+March,2020,Council District 1,4999,March,Electronic Waste,147,2,2.94
+March,2020,Council District 1,4999,March,Graffiti Removal,1268,4,25.37
+March,2020,Council District 1,4999,March,Homeless Encampment,194,47,3.88
+March,2020,Council District 1,4999,March,Illegal Dumping Pickup,372,7,7.44
+March,2020,Council District 1,4999,March,Metal/Household Appliances,429,2,8.58
+March,2020,Council District 1,4999,March,Multiple Streetlight Issue,13,11,0.26
+March,2020,Council District 1,4999,March,Single Streetlight Issue,27,42,0.54
+March,2020,Council District 2,6359,March,Bulky Items,3977,3,62.54
+March,2020,Council District 2,6359,March,Electronic Waste,239,2,3.76
+March,2020,Council District 2,6359,March,Graffiti Removal,872,2,13.71
+March,2020,Council District 2,6359,March,Homeless Encampment,183,36,2.88
+March,2020,Council District 2,6359,March,Illegal Dumping Pickup,376,6,5.91
+March,2020,Council District 2,6359,March,Metal/Household Appliances,644,3,10.13
+March,2020,Council District 2,6359,March,Multiple Streetlight Issue,30,32,0.47
+March,2020,Council District 2,6359,March,Single Streetlight Issue,38,16,0.6
+March,2020,Council District 3,5131,March,Bulky Items,3024,2,58.94
+March,2020,Council District 3,5131,March,Electronic Waste,211,2,4.11
+March,2020,Council District 3,5131,March,Graffiti Removal,325,2,6.33
+March,2020,Council District 3,5131,March,Homeless Encampment,521,7,10.15
+March,2020,Council District 3,5131,March,Illegal Dumping Pickup,354,4,6.9
+March,2020,Council District 3,5131,March,Metal/Household Appliances,677,3,13.19
+March,2020,Council District 3,5131,March,Multiple Streetlight Issue,6,6,0.12
+March,2020,Council District 3,5131,March,Single Streetlight Issue,13,6,0.25
+March,2020,Council District 4,4530,March,Bulky Items,2843,2,62.76
+March,2020,Council District 4,4530,March,Dead Animal Removal,1,2,0.02
+March,2020,Council District 4,4530,March,Electronic Waste,168,2,3.71
+March,2020,Council District 4,4530,March,Graffiti Removal,367,8,8.1
+March,2020,Council District 4,4530,March,Homeless Encampment,213,37,4.7
+March,2020,Council District 4,4530,March,Illegal Dumping Pickup,226,9,4.99
+March,2020,Council District 4,4530,March,Metal/Household Appliances,594,2,13.11
+March,2020,Council District 4,4530,March,Multiple Streetlight Issue,41,27,0.91
+March,2020,Council District 4,4530,March,Single Streetlight Issue,77,38,1.7
+March,2020,Council District 5,4062,March,Bulky Items,2570,3,63.27
+March,2020,Council District 5,4062,March,Electronic Waste,154,2,3.79
+March,2020,Council District 5,4062,March,Graffiti Removal,305,8,7.51
+March,2020,Council District 5,4062,March,Homeless Encampment,224,41,5.51
+March,2020,Council District 5,4062,March,Illegal Dumping Pickup,178,6,4.38
+March,2020,Council District 5,4062,March,Metal/Household Appliances,550,2,13.54
+March,2020,Council District 5,4062,March,Multiple Streetlight Issue,42,18,1.03
+March,2020,Council District 5,4062,March,Single Streetlight Issue,39,30,0.96
+March,2020,Council District 6,7491,March,Bulky Items,3842,2,51.29
+March,2020,Council District 6,7491,March,Dead Animal Removal,1,0,0.01
+March,2020,Council District 6,7491,March,Electronic Waste,233,2,3.11
+March,2020,Council District 6,7491,March,Graffiti Removal,1158,1,15.46
+March,2020,Council District 6,7491,March,Homeless Encampment,317,25,4.23
+March,2020,Council District 6,7491,March,Illegal Dumping Pickup,1273,3,16.99
+March,2020,Council District 6,7491,March,Metal/Household Appliances,622,2,8.3
+March,2020,Council District 6,7491,March,Multiple Streetlight Issue,15,37,0.2
+March,2020,Council District 6,7491,March,Single Streetlight Issue,30,9,0.4
+March,2020,Council District 7,4751,March,Bulky Items,3030,3,63.78
+March,2020,Council District 7,4751,March,Electronic Waste,229,2,4.82
+March,2020,Council District 7,4751,March,Graffiti Removal,281,2,5.91
+March,2020,Council District 7,4751,March,Homeless Encampment,102,18,2.15
+March,2020,Council District 7,4751,March,Illegal Dumping Pickup,449,5,9.45
+March,2020,Council District 7,4751,March,Metal/Household Appliances,632,3,13.3
+March,2020,Council District 7,4751,March,Multiple Streetlight Issue,9,38,0.19
+March,2020,Council District 7,4751,March,Single Streetlight Issue,19,18,0.4
+March,2020,Council District 8,6248,March,Bulky Items,3965,2,63.46
+March,2020,Council District 8,6248,March,Electronic Waste,275,2,4.4
+March,2020,Council District 8,6248,March,Graffiti Removal,440,14,7.04
+March,2020,Council District 8,6248,March,Homeless Encampment,94,34,1.5
+March,2020,Council District 8,6248,March,Illegal Dumping Pickup,750,4,12.0
+March,2020,Council District 8,6248,March,Metal/Household Appliances,686,2,10.98
+March,2020,Council District 8,6248,March,Multiple Streetlight Issue,14,43,0.22
+March,2020,Council District 8,6248,March,Single Streetlight Issue,24,15,0.38
+March,2020,Council District 9,4779,March,Bulky Items,2592,3,54.24
+March,2020,Council District 9,4779,March,Electronic Waste,201,2,4.21
+March,2020,Council District 9,4779,March,Graffiti Removal,604,2,12.64
+March,2020,Council District 9,4779,March,Homeless Encampment,238,45,4.98
+March,2020,Council District 9,4779,March,Illegal Dumping Pickup,618,8,12.93
+March,2020,Council District 9,4779,March,Metal/Household Appliances,446,2,9.33
+March,2020,Council District 9,4779,March,Multiple Streetlight Issue,27,34,0.56
+March,2020,Council District 9,4779,March,Single Streetlight Issue,53,30,1.11
+March,2020,Council District 10,5924,March,Bulky Items,3255,3,54.95
+March,2020,Council District 10,5924,March,Electronic Waste,182,2,3.07
+March,2020,Council District 10,5924,March,Graffiti Removal,1160,5,19.58
+March,2020,Council District 10,5924,March,Homeless Encampment,236,69,3.98
+March,2020,Council District 10,5924,March,Illegal Dumping Pickup,497,6,8.39
+March,2020,Council District 10,5924,March,Metal/Household Appliances,556,2,9.39
+March,2020,Council District 10,5924,March,Multiple Streetlight Issue,10,28,0.17
+March,2020,Council District 10,5924,March,Single Streetlight Issue,28,32,0.47
+March,2020,Council District 11,4263,March,Bulky Items,2613,3,61.29
+March,2020,Council District 11,4263,March,Electronic Waste,148,2,3.47
+March,2020,Council District 11,4263,March,Graffiti Removal,363,10,8.52
+March,2020,Council District 11,4263,March,Homeless Encampment,279,59,6.54
+March,2020,Council District 11,4263,March,Illegal Dumping Pickup,233,21,5.47
+March,2020,Council District 11,4263,March,Metal/Household Appliances,580,3,13.61
+March,2020,Council District 11,4263,March,Multiple Streetlight Issue,7,2,0.16
+March,2020,Council District 11,4263,March,Single Streetlight Issue,40,2,0.94
+March,2020,Council District 12,5574,March,Bulky Items,3428,2,61.5
+March,2020,Council District 12,5574,March,Electronic Waste,258,3,4.63
+March,2020,Council District 12,5574,March,Graffiti Removal,553,1,9.92
+March,2020,Council District 12,5574,March,Homeless Encampment,135,17,2.42
+March,2020,Council District 12,5574,March,Illegal Dumping Pickup,326,3,5.85
+March,2020,Council District 12,5574,March,Metal/Household Appliances,838,3,15.03
+March,2020,Council District 12,5574,March,Multiple Streetlight Issue,11,20,0.2
+March,2020,Council District 12,5574,March,Single Streetlight Issue,25,8,0.45
+March,2020,Council District 13,6062,March,Bulky Items,3247,3,53.56
+March,2020,Council District 13,6062,March,Electronic Waste,199,2,3.28
+March,2020,Council District 13,6062,March,Graffiti Removal,1215,5,20.04
+March,2020,Council District 13,6062,March,Homeless Encampment,326,95,5.38
+March,2020,Council District 13,6062,March,Illegal Dumping Pickup,527,19,8.69
+March,2020,Council District 13,6062,March,Metal/Household Appliances,492,3,8.12
+March,2020,Council District 13,6062,March,Multiple Streetlight Issue,14,36,0.23
+March,2020,Council District 13,6062,March,Single Streetlight Issue,42,43,0.69
+March,2020,Council District 14,5149,March,Bulky Items,2582,3,50.15
+March,2020,Council District 14,5149,March,Electronic Waste,183,2,3.55
+March,2020,Council District 14,5149,March,Graffiti Removal,1280,16,24.86
+March,2020,Council District 14,5149,March,Homeless Encampment,235,81,4.56
+March,2020,Council District 14,5149,March,Illegal Dumping Pickup,339,13,6.58
+March,2020,Council District 14,5149,March,Metal/Household Appliances,447,2,8.68
+March,2020,Council District 14,5149,March,Multiple Streetlight Issue,37,33,0.72
+March,2020,Council District 14,5149,March,Single Streetlight Issue,46,39,0.89
+March,2020,Council District 15,4784,March,Bulky Items,3081,3,64.4
+March,2020,Council District 15,4784,March,Electronic Waste,223,3,4.66
+March,2020,Council District 15,4784,March,Graffiti Removal,226,9,4.72
+March,2020,Council District 15,4784,March,Homeless Encampment,71,16,1.48
+March,2020,Council District 15,4784,March,Illegal Dumping Pickup,501,4,10.47
+March,2020,Council District 15,4784,March,Metal/Household Appliances,646,3,13.5
+March,2020,Council District 15,4784,March,Multiple Streetlight Issue,12,36,0.25
+March,2020,Council District 15,4784,March,Single Streetlight Issue,24,6,0.5
+April,2020,Council District 1,4668,April,Bulky Items,2447,3,52.42
+April,2020,Council District 1,4668,April,Electronic Waste,186,3,3.98
+April,2020,Council District 1,4668,April,Graffiti Removal,1065,2,22.81
+April,2020,Council District 1,4668,April,Homeless Encampment,136,58,2.91
+April,2020,Council District 1,4668,April,Illegal Dumping Pickup,310,10,6.64
+April,2020,Council District 1,4668,April,Metal/Household Appliances,492,3,10.54
+April,2020,Council District 1,4668,April,Multiple Streetlight Issue,13,12,0.28
+April,2020,Council District 1,4668,April,Single Streetlight Issue,19,28,0.41
+April,2020,Council District 2,6224,April,Bulky Items,3717,3,59.72
+April,2020,Council District 2,6224,April,Electronic Waste,257,3,4.13
+April,2020,Council District 2,6224,April,Graffiti Removal,778,2,12.5
+April,2020,Council District 2,6224,April,Homeless Encampment,313,26,5.03
+April,2020,Council District 2,6224,April,Illegal Dumping Pickup,365,5,5.86
+April,2020,Council District 2,6224,April,Metal/Household Appliances,742,3,11.92
+April,2020,Council District 2,6224,April,Multiple Streetlight Issue,14,15,0.22
+April,2020,Council District 2,6224,April,Single Streetlight Issue,38,23,0.61
+April,2020,Council District 3,5732,April,Bulky Items,3357,2,58.57
+April,2020,Council District 3,5732,April,Electronic Waste,261,2,4.55
+April,2020,Council District 3,5732,April,Graffiti Removal,328,2,5.72
+April,2020,Council District 3,5732,April,Homeless Encampment,592,13,10.33
+April,2020,Council District 3,5732,April,Illegal Dumping Pickup,358,5,6.25
+April,2020,Council District 3,5732,April,Metal/Household Appliances,813,2,14.18
+April,2020,Council District 3,5732,April,Multiple Streetlight Issue,5,3,0.09
+April,2020,Council District 3,5732,April,Single Streetlight Issue,18,3,0.31
+April,2020,Council District 4,4898,April,Bulky Items,3016,3,61.58
+April,2020,Council District 4,4898,April,Dead Animal Removal,1,1,0.02
+April,2020,Council District 4,4898,April,Electronic Waste,235,3,4.8
+April,2020,Council District 4,4898,April,Graffiti Removal,501,3,10.23
+April,2020,Council District 4,4898,April,Homeless Encampment,224,30,4.57
+April,2020,Council District 4,4898,April,Illegal Dumping Pickup,215,7,4.39
+April,2020,Council District 4,4898,April,Metal/Household Appliances,615,2,12.56
+April,2020,Council District 4,4898,April,Multiple Streetlight Issue,35,30,0.71
+April,2020,Council District 4,4898,April,Single Streetlight Issue,56,34,1.14
+April,2020,Council District 5,4735,April,Bulky Items,2732,2,57.7
+April,2020,Council District 5,4735,April,Electronic Waste,224,2,4.73
+April,2020,Council District 5,4735,April,Graffiti Removal,631,3,13.33
+April,2020,Council District 5,4735,April,Homeless Encampment,251,23,5.3
+April,2020,Council District 5,4735,April,Illegal Dumping Pickup,190,4,4.01
+April,2020,Council District 5,4735,April,Metal/Household Appliances,625,2,13.2
+April,2020,Council District 5,4735,April,Multiple Streetlight Issue,33,18,0.7
+April,2020,Council District 5,4735,April,Single Streetlight Issue,49,29,1.03
+April,2020,Council District 6,6815,April,Bulky Items,3573,2,52.43
+April,2020,Council District 6,6815,April,Dead Animal Removal,1,0,0.01
+April,2020,Council District 6,6815,April,Electronic Waste,262,2,3.84
+April,2020,Council District 6,6815,April,Graffiti Removal,1031,1,15.13
+April,2020,Council District 6,6815,April,Homeless Encampment,281,16,4.12
+April,2020,Council District 6,6815,April,Illegal Dumping Pickup,971,3,14.25
+April,2020,Council District 6,6815,April,Metal/Household Appliances,651,2,9.55
+April,2020,Council District 6,6815,April,Multiple Streetlight Issue,12,6,0.18
+April,2020,Council District 6,6815,April,Single Streetlight Issue,33,12,0.48
+April,2020,Council District 7,6177,April,Bulky Items,3945,3,63.87
+April,2020,Council District 7,6177,April,Electronic Waste,382,2,6.18
+April,2020,Council District 7,6177,April,Graffiti Removal,345,1,5.59
+April,2020,Council District 7,6177,April,Homeless Encampment,135,18,2.19
+April,2020,Council District 7,6177,April,Illegal Dumping Pickup,431,4,6.98
+April,2020,Council District 7,6177,April,Metal/Household Appliances,918,3,14.86
+April,2020,Council District 7,6177,April,Multiple Streetlight Issue,7,3,0.11
+April,2020,Council District 7,6177,April,Single Streetlight Issue,14,10,0.23
+April,2020,Council District 8,7142,April,Bulky Items,4489,2,62.85
+April,2020,Council District 8,7142,April,Electronic Waste,399,2,5.59
+April,2020,Council District 8,7142,April,Graffiti Removal,480,11,6.72
+April,2020,Council District 8,7142,April,Homeless Encampment,129,23,1.81
+April,2020,Council District 8,7142,April,Illegal Dumping Pickup,718,4,10.05
+April,2020,Council District 8,7142,April,Metal/Household Appliances,885,2,12.39
+April,2020,Council District 8,7142,April,Multiple Streetlight Issue,13,23,0.18
+April,2020,Council District 8,7142,April,Single Streetlight Issue,29,5,0.41
+April,2020,Council District 9,5010,April,Bulky Items,2751,3,54.91
+April,2020,Council District 9,5010,April,Dead Animal Removal,1,0,0.02
+April,2020,Council District 9,5010,April,Electronic Waste,219,2,4.37
+April,2020,Council District 9,5010,April,Graffiti Removal,622,4,12.42
+April,2020,Council District 9,5010,April,Homeless Encampment,199,30,3.97
+April,2020,Council District 9,5010,April,Illegal Dumping Pickup,588,6,11.74
+April,2020,Council District 9,5010,April,Metal/Household Appliances,552,2,11.02
+April,2020,Council District 9,5010,April,Multiple Streetlight Issue,44,19,0.88
+April,2020,Council District 9,5010,April,Single Streetlight Issue,34,10,0.68
+April,2020,Council District 10,6308,April,Bulky Items,3576,3,56.69
+April,2020,Council District 10,6308,April,Electronic Waste,291,2,4.61
+April,2020,Council District 10,6308,April,Graffiti Removal,962,2,15.25
+April,2020,Council District 10,6308,April,Homeless Encampment,316,57,5.01
+April,2020,Council District 10,6308,April,Illegal Dumping Pickup,442,8,7.01
+April,2020,Council District 10,6308,April,Metal/Household Appliances,699,2,11.08
+April,2020,Council District 10,6308,April,Multiple Streetlight Issue,6,18,0.1
+April,2020,Council District 10,6308,April,Single Streetlight Issue,16,12,0.25
+April,2020,Council District 11,4621,April,Bulky Items,2825,4,61.13
+April,2020,Council District 11,4621,April,Electronic Waste,241,2,5.22
+April,2020,Council District 11,4621,April,Graffiti Removal,386,3,8.35
+April,2020,Council District 11,4621,April,Homeless Encampment,231,31,5.0
+April,2020,Council District 11,4621,April,Illegal Dumping Pickup,237,7,5.13
+April,2020,Council District 11,4621,April,Metal/Household Appliances,648,3,14.02
+April,2020,Council District 11,4621,April,Multiple Streetlight Issue,10,3,0.22
+April,2020,Council District 11,4621,April,Single Streetlight Issue,43,2,0.93
+April,2020,Council District 12,6186,April,Bulky Items,3834,3,61.98
+April,2020,Council District 12,6186,April,Electronic Waste,357,3,5.77
+April,2020,Council District 12,6186,April,Graffiti Removal,520,1,8.41
+April,2020,Council District 12,6186,April,Homeless Encampment,119,21,1.92
+April,2020,Council District 12,6186,April,Illegal Dumping Pickup,336,4,5.43
+April,2020,Council District 12,6186,April,Metal/Household Appliances,989,3,15.99
+April,2020,Council District 12,6186,April,Multiple Streetlight Issue,7,24,0.11
+April,2020,Council District 12,6186,April,Single Streetlight Issue,24,5,0.39
+April,2020,Council District 13,6172,April,Bulky Items,3522,3,57.06
+April,2020,Council District 13,6172,April,Electronic Waste,229,2,3.71
+April,2020,Council District 13,6172,April,Graffiti Removal,1052,4,17.04
+April,2020,Council District 13,6172,April,Homeless Encampment,272,67,4.41
+April,2020,Council District 13,6172,April,Illegal Dumping Pickup,444,10,7.19
+April,2020,Council District 13,6172,April,Metal/Household Appliances,600,2,9.72
+April,2020,Council District 13,6172,April,Multiple Streetlight Issue,16,18,0.26
+April,2020,Council District 13,6172,April,Single Streetlight Issue,37,22,0.6
+April,2020,Council District 14,5381,April,Bulky Items,2829,3,52.57
+April,2020,Council District 14,5381,April,Dead Animal Removal,1,22,0.02
+April,2020,Council District 14,5381,April,Electronic Waste,250,3,4.65
+April,2020,Council District 14,5381,April,Graffiti Removal,1152,31,21.41
+April,2020,Council District 14,5381,April,Homeless Encampment,227,80,4.22
+April,2020,Council District 14,5381,April,Illegal Dumping Pickup,331,19,6.15
+April,2020,Council District 14,5381,April,Metal/Household Appliances,534,3,9.92
+April,2020,Council District 14,5381,April,Multiple Streetlight Issue,25,31,0.46
+April,2020,Council District 14,5381,April,Single Streetlight Issue,32,30,0.59
+April,2020,Council District 15,5469,April,Bulky Items,3494,3,63.89
+April,2020,Council District 15,5469,April,Electronic Waste,355,3,6.49
+April,2020,Council District 15,5469,April,Graffiti Removal,261,9,4.77
+April,2020,Council District 15,5469,April,Homeless Encampment,66,22,1.21
+April,2020,Council District 15,5469,April,Illegal Dumping Pickup,416,4,7.61
+April,2020,Council District 15,5469,April,Metal/Household Appliances,843,3,15.41
+April,2020,Council District 15,5469,April,Multiple Streetlight Issue,9,18,0.16
+April,2020,Council District 15,5469,April,Single Streetlight Issue,25,5,0.46
+May,2020,Council District 1,5519,May,Bulky Items,3241,4,58.72
+May,2020,Council District 1,5519,May,Electronic Waste,243,2,4.4
+May,2020,Council District 1,5519,May,Graffiti Removal,803,3,14.55
+May,2020,Council District 1,5519,May,Homeless Encampment,153,56,2.77
+May,2020,Council District 1,5519,May,Illegal Dumping Pickup,408,10,7.39
+May,2020,Council District 1,5519,May,Metal/Household Appliances,633,2,11.47
+May,2020,Council District 1,5519,May,Multiple Streetlight Issue,12,18,0.22
+May,2020,Council District 1,5519,May,Single Streetlight Issue,26,30,0.47
+May,2020,Council District 2,7085,May,Bulky Items,4449,3,62.79
+May,2020,Council District 2,7085,May,Electronic Waste,314,3,4.43
+May,2020,Council District 2,7085,May,Graffiti Removal,709,2,10.01
+May,2020,Council District 2,7085,May,Homeless Encampment,221,20,3.12
+May,2020,Council District 2,7085,May,Illegal Dumping Pickup,519,5,7.33
+May,2020,Council District 2,7085,May,Metal/Household Appliances,822,3,11.6
+May,2020,Council District 2,7085,May,Multiple Streetlight Issue,15,19,0.21
+May,2020,Council District 2,7085,May,Single Streetlight Issue,36,8,0.51
+May,2020,Council District 3,6580,May,Bulky Items,4089,3,62.14
+May,2020,Council District 3,6580,May,Electronic Waste,323,3,4.91
+May,2020,Council District 3,6580,May,Graffiti Removal,370,2,5.62
+May,2020,Council District 3,6580,May,Homeless Encampment,430,7,6.53
+May,2020,Council District 3,6580,May,Illegal Dumping Pickup,381,4,5.79
+May,2020,Council District 3,6580,May,Metal/Household Appliances,963,3,14.64
+May,2020,Council District 3,6580,May,Multiple Streetlight Issue,6,16,0.09
+May,2020,Council District 3,6580,May,Single Streetlight Issue,18,3,0.27
+May,2020,Council District 4,5708,May,Bulky Items,3591,3,62.91
+May,2020,Council District 4,5708,May,Electronic Waste,302,3,5.29
+May,2020,Council District 4,5708,May,Graffiti Removal,406,4,7.11
+May,2020,Council District 4,5708,May,Homeless Encampment,300,23,5.26
+May,2020,Council District 4,5708,May,Illegal Dumping Pickup,256,7,4.48
+May,2020,Council District 4,5708,May,Metal/Household Appliances,764,3,13.38
+May,2020,Council District 4,5708,May,Multiple Streetlight Issue,26,33,0.46
+May,2020,Council District 4,5708,May,Single Streetlight Issue,63,49,1.1
+May,2020,Council District 5,5188,May,Bulky Items,3176,3,61.22
+May,2020,Council District 5,5188,May,Electronic Waste,279,3,5.38
+May,2020,Council District 5,5188,May,Graffiti Removal,434,4,8.37
+May,2020,Council District 5,5188,May,Homeless Encampment,269,15,5.19
+May,2020,Council District 5,5188,May,Illegal Dumping Pickup,229,4,4.41
+May,2020,Council District 5,5188,May,Metal/Household Appliances,753,3,14.51
+May,2020,Council District 5,5188,May,Multiple Streetlight Issue,18,42,0.35
+May,2020,Council District 5,5188,May,Single Streetlight Issue,30,24,0.58
+May,2020,Council District 6,7773,May,Bulky Items,4124,3,53.06
+May,2020,Council District 6,7773,May,Electronic Waste,332,2,4.27
+May,2020,Council District 6,7773,May,Graffiti Removal,976,1,12.56
+May,2020,Council District 6,7773,May,Homeless Encampment,226,13,2.91
+May,2020,Council District 6,7773,May,Illegal Dumping Pickup,1350,3,17.37
+May,2020,Council District 6,7773,May,Metal/Household Appliances,739,3,9.51
+May,2020,Council District 6,7773,May,Multiple Streetlight Issue,11,20,0.14
+May,2020,Council District 6,7773,May,Single Streetlight Issue,15,4,0.19
+May,2020,Council District 7,7130,May,Bulky Items,4492,3,63.0
+May,2020,Council District 7,7130,May,Electronic Waste,409,3,5.74
+May,2020,Council District 7,7130,May,Graffiti Removal,457,1,6.41
+May,2020,Council District 7,7130,May,Homeless Encampment,165,8,2.31
+May,2020,Council District 7,7130,May,Illegal Dumping Pickup,502,4,7.04
+May,2020,Council District 7,7130,May,Metal/Household Appliances,1072,3,15.04
+May,2020,Council District 7,7130,May,Multiple Streetlight Issue,11,10,0.15
+May,2020,Council District 7,7130,May,Single Streetlight Issue,22,11,0.31
+May,2020,Council District 8,8744,May,Bulky Items,5502,2,62.92
+May,2020,Council District 8,8744,May,Electronic Waste,478,2,5.47
+May,2020,Council District 8,8744,May,Graffiti Removal,414,14,4.73
+May,2020,Council District 8,8744,May,Homeless Encampment,142,16,1.62
+May,2020,Council District 8,8744,May,Illegal Dumping Pickup,1041,4,11.91
+May,2020,Council District 8,8744,May,Metal/Household Appliances,1133,2,12.96
+May,2020,Council District 8,8744,May,Multiple Streetlight Issue,8,6,0.09
+May,2020,Council District 8,8744,May,Single Streetlight Issue,26,2,0.3
+May,2020,Council District 9,5759,May,Bulky Items,3353,3,58.22
+May,2020,Council District 9,5759,May,Electronic Waste,260,2,4.51
+May,2020,Council District 9,5759,May,Graffiti Removal,408,2,7.08
+May,2020,Council District 9,5759,May,Homeless Encampment,276,26,4.79
+May,2020,Council District 9,5759,May,Illegal Dumping Pickup,747,6,12.97
+May,2020,Council District 9,5759,May,Metal/Household Appliances,642,2,11.15
+May,2020,Council District 9,5759,May,Multiple Streetlight Issue,25,13,0.43
+May,2020,Council District 9,5759,May,Single Streetlight Issue,48,14,0.83
+May,2020,Council District 10,7211,May,Bulky Items,4228,3,58.63
+May,2020,Council District 10,7211,May,Electronic Waste,324,2,4.49
+May,2020,Council District 10,7211,May,Graffiti Removal,814,3,11.29
+May,2020,Council District 10,7211,May,Homeless Encampment,338,59,4.69
+May,2020,Council District 10,7211,May,Illegal Dumping Pickup,606,6,8.4
+May,2020,Council District 10,7211,May,Metal/Household Appliances,862,3,11.95
+May,2020,Council District 10,7211,May,Multiple Streetlight Issue,11,31,0.15
+May,2020,Council District 10,7211,May,Single Streetlight Issue,28,30,0.39
+May,2020,Council District 11,5662,May,Bulky Items,3488,3,61.6
+May,2020,Council District 11,5662,May,Electronic Waste,311,3,5.49
+May,2020,Council District 11,5662,May,Graffiti Removal,442,5,7.81
+May,2020,Council District 11,5662,May,Homeless Encampment,301,47,5.32
+May,2020,Council District 11,5662,May,Illegal Dumping Pickup,260,11,4.59
+May,2020,Council District 11,5662,May,Metal/Household Appliances,820,3,14.48
+May,2020,Council District 11,5662,May,Multiple Streetlight Issue,9,1,0.16
+May,2020,Council District 11,5662,May,Single Streetlight Issue,31,3,0.55
+May,2020,Council District 12,7693,May,Bulky Items,4886,3,63.51
+May,2020,Council District 12,7693,May,Electronic Waste,484,3,6.29
+May,2020,Council District 12,7693,May,Graffiti Removal,513,1,6.67
+May,2020,Council District 12,7693,May,Homeless Encampment,135,12,1.75
+May,2020,Council District 12,7693,May,Illegal Dumping Pickup,386,4,5.02
+May,2020,Council District 12,7693,May,Metal/Household Appliances,1243,3,16.16
+May,2020,Council District 12,7693,May,Multiple Streetlight Issue,9,10,0.12
+May,2020,Council District 12,7693,May,Single Streetlight Issue,37,12,0.48
+May,2020,Council District 13,6587,May,Bulky Items,3836,4,58.24
+May,2020,Council District 13,6587,May,Electronic Waste,244,2,3.7
+May,2020,Council District 13,6587,May,Graffiti Removal,884,4,13.42
+May,2020,Council District 13,6587,May,Homeless Encampment,272,81,4.13
+May,2020,Council District 13,6587,May,Illegal Dumping Pickup,631,11,9.58
+May,2020,Council District 13,6587,May,Metal/Household Appliances,656,2,9.96
+May,2020,Council District 13,6587,May,Multiple Streetlight Issue,13,26,0.2
+May,2020,Council District 13,6587,May,Single Streetlight Issue,51,27,0.77
+May,2020,Council District 14,6484,May,Bulky Items,3798,3,58.57
+May,2020,Council District 14,6484,May,Electronic Waste,311,2,4.8
+May,2020,Council District 14,6484,May,Graffiti Removal,801,22,12.35
+May,2020,Council District 14,6484,May,Homeless Encampment,286,89,4.41
+May,2020,Council District 14,6484,May,Illegal Dumping Pickup,461,13,7.11
+May,2020,Council District 14,6484,May,Metal/Household Appliances,716,3,11.04
+May,2020,Council District 14,6484,May,Multiple Streetlight Issue,25,33,0.39
+May,2020,Council District 14,6484,May,Single Streetlight Issue,86,46,1.33
+May,2020,Council District 15,6367,May,Bulky Items,4063,3,63.81
+May,2020,Council District 15,6367,May,Electronic Waste,372,3,5.84
+May,2020,Council District 15,6367,May,Graffiti Removal,277,3,4.35
+May,2020,Council District 15,6367,May,Homeless Encampment,73,34,1.15
+May,2020,Council District 15,6367,May,Illegal Dumping Pickup,540,4,8.48
+May,2020,Council District 15,6367,May,Metal/Household Appliances,1009,3,15.85
+May,2020,Council District 15,6367,May,Multiple Streetlight Issue,10,5,0.16
+May,2020,Council District 15,6367,May,Single Streetlight Issue,23,2,0.36
+June,2020,Council District 1,6105,June,Bulky Items,3621,3,59.31
+June,2020,Council District 1,6105,June,Dead Animal Removal,1,0,0.02
+June,2020,Council District 1,6105,June,Electronic Waste,260,3,4.26
+June,2020,Council District 1,6105,June,Graffiti Removal,854,3,13.99
+June,2020,Council District 1,6105,June,Homeless Encampment,127,47,2.08
+June,2020,Council District 1,6105,June,Illegal Dumping Pickup,526,6,8.62
+June,2020,Council District 1,6105,June,Metal/Household Appliances,678,2,11.11
+June,2020,Council District 1,6105,June,Multiple Streetlight Issue,16,43,0.26
+June,2020,Council District 1,6105,June,Single Streetlight Issue,22,42,0.36
+June,2020,Council District 2,7643,June,Bulky Items,4979,4,65.14
+June,2020,Council District 2,7643,June,Electronic Waste,331,3,4.33
+June,2020,Council District 2,7643,June,Graffiti Removal,670,1,8.77
+June,2020,Council District 2,7643,June,Homeless Encampment,211,20,2.76
+June,2020,Council District 2,7643,June,Illegal Dumping Pickup,499,7,6.53
+June,2020,Council District 2,7643,June,Metal/Household Appliances,914,3,11.96
+June,2020,Council District 2,7643,June,Multiple Streetlight Issue,13,17,0.17
+June,2020,Council District 2,7643,June,Single Streetlight Issue,26,7,0.34
+June,2020,Council District 3,7251,June,Bulky Items,4580,3,63.16
+June,2020,Council District 3,7251,June,Dead Animal Removal,5,1,0.07
+June,2020,Council District 3,7251,June,Electronic Waste,377,3,5.2
+June,2020,Council District 3,7251,June,Graffiti Removal,411,2,5.67
+June,2020,Council District 3,7251,June,Homeless Encampment,424,7,5.85
+June,2020,Council District 3,7251,June,Illegal Dumping Pickup,435,3,6.0
+June,2020,Council District 3,7251,June,Metal/Household Appliances,993,3,13.69
+June,2020,Council District 3,7251,June,Multiple Streetlight Issue,12,12,0.17
+June,2020,Council District 3,7251,June,Single Streetlight Issue,14,3,0.19
+June,2020,Council District 4,6256,June,Bulky Items,4141,3,66.19
+June,2020,Council District 4,6256,June,Electronic Waste,338,2,5.4
+June,2020,Council District 4,6256,June,Graffiti Removal,406,5,6.49
+June,2020,Council District 4,6256,June,Homeless Encampment,238,26,3.8
+June,2020,Council District 4,6256,June,Illegal Dumping Pickup,220,6,3.52
+June,2020,Council District 4,6256,June,Metal/Household Appliances,848,3,13.55
+June,2020,Council District 4,6256,June,Multiple Streetlight Issue,17,39,0.27
+June,2020,Council District 4,6256,June,Single Streetlight Issue,48,25,0.77
+June,2020,Council District 5,6010,June,Bulky Items,3801,3,63.24
+June,2020,Council District 5,6010,June,Electronic Waste,349,3,5.81
+June,2020,Council District 5,6010,June,Graffiti Removal,475,6,7.9
+June,2020,Council District 5,6010,June,Homeless Encampment,266,19,4.43
+June,2020,Council District 5,6010,June,Illegal Dumping Pickup,263,6,4.38
+June,2020,Council District 5,6010,June,Metal/Household Appliances,816,2,13.58
+June,2020,Council District 5,6010,June,Multiple Streetlight Issue,10,22,0.17
+June,2020,Council District 5,6010,June,Single Streetlight Issue,30,10,0.5
+June,2020,Council District 6,8260,June,Bulky Items,4345,4,52.6
+June,2020,Council District 6,8260,June,Electronic Waste,312,2,3.78
+June,2020,Council District 6,8260,June,Graffiti Removal,1058,1,12.81
+June,2020,Council District 6,8260,June,Homeless Encampment,236,11,2.86
+June,2020,Council District 6,8260,June,Illegal Dumping Pickup,1529,4,18.51
+June,2020,Council District 6,8260,June,Metal/Household Appliances,755,3,9.14
+June,2020,Council District 6,8260,June,Multiple Streetlight Issue,9,5,0.11
+June,2020,Council District 6,8260,June,Single Streetlight Issue,16,3,0.19
+June,2020,Council District 7,7268,June,Bulky Items,4671,3,64.27
+June,2020,Council District 7,7268,June,Electronic Waste,412,3,5.67
+June,2020,Council District 7,7268,June,Graffiti Removal,446,0,6.14
+June,2020,Council District 7,7268,June,Homeless Encampment,160,7,2.2
+June,2020,Council District 7,7268,June,Illegal Dumping Pickup,530,4,7.29
+June,2020,Council District 7,7268,June,Metal/Household Appliances,1013,3,13.94
+June,2020,Council District 7,7268,June,Multiple Streetlight Issue,8,20,0.11
+June,2020,Council District 7,7268,June,Single Streetlight Issue,28,6,0.39
+June,2020,Council District 8,8683,June,Bulky Items,5537,2,63.77
+June,2020,Council District 8,8683,June,Electronic Waste,427,2,4.92
+June,2020,Council District 8,8683,June,Graffiti Removal,339,12,3.9
+June,2020,Council District 8,8683,June,Homeless Encampment,143,21,1.65
+June,2020,Council District 8,8683,June,Illegal Dumping Pickup,1144,4,13.18
+June,2020,Council District 8,8683,June,Metal/Household Appliances,1049,2,12.08
+June,2020,Council District 8,8683,June,Multiple Streetlight Issue,8,40,0.09
+June,2020,Council District 8,8683,June,Single Streetlight Issue,36,13,0.41
+June,2020,Council District 9,6204,June,Bulky Items,3715,3,59.88
+June,2020,Council District 9,6204,June,Electronic Waste,278,2,4.48
+June,2020,Council District 9,6204,June,Graffiti Removal,392,4,6.32
+June,2020,Council District 9,6204,June,Homeless Encampment,211,35,3.4
+June,2020,Council District 9,6204,June,Illegal Dumping Pickup,885,5,14.26
+June,2020,Council District 9,6204,June,Metal/Household Appliances,660,2,10.64
+June,2020,Council District 9,6204,June,Multiple Streetlight Issue,21,16,0.34
+June,2020,Council District 9,6204,June,Single Streetlight Issue,42,18,0.68
+June,2020,Council District 10,7489,June,Bulky Items,4492,3,59.98
+June,2020,Council District 10,7489,June,Electronic Waste,361,3,4.82
+June,2020,Council District 10,7489,June,Graffiti Removal,854,2,11.4
+June,2020,Council District 10,7489,June,Homeless Encampment,276,48,3.69
+June,2020,Council District 10,7489,June,Illegal Dumping Pickup,633,7,8.45
+June,2020,Council District 10,7489,June,Metal/Household Appliances,837,3,11.18
+June,2020,Council District 10,7489,June,Multiple Streetlight Issue,6,41,0.08
+June,2020,Council District 10,7489,June,Single Streetlight Issue,30,27,0.4
+June,2020,Council District 11,6133,June,Bulky Items,3814,3,62.19
+June,2020,Council District 11,6133,June,Electronic Waste,348,3,5.67
+June,2020,Council District 11,6133,June,Graffiti Removal,383,10,6.24
+June,2020,Council District 11,6133,June,Homeless Encampment,414,30,6.75
+June,2020,Council District 11,6133,June,Illegal Dumping Pickup,261,6,4.26
+June,2020,Council District 11,6133,June,Metal/Household Appliances,893,3,14.56
+June,2020,Council District 11,6133,June,Multiple Streetlight Issue,4,10,0.07
+June,2020,Council District 11,6133,June,Single Streetlight Issue,16,3,0.26
+June,2020,Council District 12,8078,June,Bulky Items,5276,3,65.31
+June,2020,Council District 12,8078,June,Dead Animal Removal,1,0,0.01
+June,2020,Council District 12,8078,June,Electronic Waste,473,3,5.86
+June,2020,Council District 12,8078,June,Graffiti Removal,498,1,6.16
+June,2020,Council District 12,8078,June,Homeless Encampment,141,19,1.75
+June,2020,Council District 12,8078,June,Illegal Dumping Pickup,422,5,5.22
+June,2020,Council District 12,8078,June,Metal/Household Appliances,1239,3,15.34
+June,2020,Council District 12,8078,June,Multiple Streetlight Issue,6,16,0.07
+June,2020,Council District 12,8078,June,Single Streetlight Issue,22,13,0.27
+June,2020,Council District 13,7090,June,Bulky Items,4253,4,59.99
+June,2020,Council District 13,7090,June,Dead Animal Removal,1,1,0.01
+June,2020,Council District 13,7090,June,Electronic Waste,278,3,3.92
+June,2020,Council District 13,7090,June,Graffiti Removal,987,5,13.92
+June,2020,Council District 13,7090,June,Homeless Encampment,264,76,3.72
+June,2020,Council District 13,7090,June,Illegal Dumping Pickup,548,13,7.73
+June,2020,Council District 13,7090,June,Metal/Household Appliances,728,2,10.27
+June,2020,Council District 13,7090,June,Multiple Streetlight Issue,4,12,0.06
+June,2020,Council District 13,7090,June,Single Streetlight Issue,27,28,0.38
+June,2020,Council District 14,6411,June,Bulky Items,3813,3,59.48
+June,2020,Council District 14,6411,June,Dead Animal Removal,3,28,0.05
+June,2020,Council District 14,6411,June,Electronic Waste,321,3,5.01
+June,2020,Council District 14,6411,June,Graffiti Removal,860,10,13.41
+June,2020,Council District 14,6411,June,Homeless Encampment,225,90,3.51
+June,2020,Council District 14,6411,June,Illegal Dumping Pickup,488,11,7.61
+June,2020,Council District 14,6411,June,Metal/Household Appliances,655,3,10.22
+June,2020,Council District 14,6411,June,Multiple Streetlight Issue,20,30,0.31
+June,2020,Council District 14,6411,June,Single Streetlight Issue,26,20,0.41
+June,2020,Council District 15,6590,June,Bulky Items,4172,3,63.31
+June,2020,Council District 15,6590,June,Electronic Waste,362,3,5.49
+June,2020,Council District 15,6590,June,Graffiti Removal,357,2,5.42
+June,2020,Council District 15,6590,June,Homeless Encampment,72,28,1.09
+June,2020,Council District 15,6590,June,Illegal Dumping Pickup,607,4,9.21
+June,2020,Council District 15,6590,June,Metal/Household Appliances,994,3,15.08
+June,2020,Council District 15,6590,June,Multiple Streetlight Issue,6,4,0.09
+June,2020,Council District 15,6590,June,Single Streetlight Issue,20,3,0.3
+July,2020,Council District 1,6056,July,Bulky Items,3566,4,58.88
+July,2020,Council District 1,6056,July,Electronic Waste,220,3,3.63
+July,2020,Council District 1,6056,July,Graffiti Removal,984,3,16.25
+July,2020,Council District 1,6056,July,Homeless Encampment,139,48,2.3
+July,2020,Council District 1,6056,July,Illegal Dumping Pickup,488,9,8.06
+July,2020,Council District 1,6056,July,Metal/Household Appliances,621,3,10.25
+July,2020,Council District 1,6056,July,Multiple Streetlight Issue,16,63,0.26
+July,2020,Council District 1,6056,July,Single Streetlight Issue,22,36,0.36
+July,2020,Council District 2,7599,July,Bulky Items,5081,5,66.86
+July,2020,Council District 2,7599,July,Electronic Waste,306,3,4.03
+July,2020,Council District 2,7599,July,Graffiti Removal,697,1,9.17
+July,2020,Council District 2,7599,July,Homeless Encampment,175,32,2.3
+July,2020,Council District 2,7599,July,Illegal Dumping Pickup,519,8,6.83
+July,2020,Council District 2,7599,July,Metal/Household Appliances,788,3,10.37
+July,2020,Council District 2,7599,July,Multiple Streetlight Issue,14,5,0.18
+July,2020,Council District 2,7599,July,Single Streetlight Issue,19,9,0.25
+July,2020,Council District 3,6889,July,Bulky Items,4386,3,63.67
+July,2020,Council District 3,6889,July,Dead Animal Removal,1,1,0.01
+July,2020,Council District 3,6889,July,Electronic Waste,317,3,4.6
+July,2020,Council District 3,6889,July,Graffiti Removal,384,2,5.57
+July,2020,Council District 3,6889,July,Homeless Encampment,364,17,5.28
+July,2020,Council District 3,6889,July,Illegal Dumping Pickup,453,4,6.58
+July,2020,Council District 3,6889,July,Metal/Household Appliances,959,3,13.92
+July,2020,Council District 3,6889,July,Multiple Streetlight Issue,7,3,0.1
+July,2020,Council District 3,6889,July,Single Streetlight Issue,18,4,0.26
+July,2020,Council District 4,6743,July,Bulky Items,4478,3,66.41
+July,2020,Council District 4,6743,July,Electronic Waste,284,3,4.21
+July,2020,Council District 4,6743,July,Graffiti Removal,424,3,6.29
+July,2020,Council District 4,6743,July,Homeless Encampment,248,25,3.68
+July,2020,Council District 4,6743,July,Illegal Dumping Pickup,279,8,4.14
+July,2020,Council District 4,6743,July,Metal/Household Appliances,942,3,13.97
+July,2020,Council District 4,6743,July,Multiple Streetlight Issue,36,17,0.53
+July,2020,Council District 4,6743,July,Single Streetlight Issue,52,25,0.77
+July,2020,Council District 5,6099,July,Bulky Items,4039,3,66.22
+July,2020,Council District 5,6099,July,Dead Animal Removal,2,0,0.03
+July,2020,Council District 5,6099,July,Electronic Waste,304,3,4.98
+July,2020,Council District 5,6099,July,Graffiti Removal,330,4,5.41
+July,2020,Council District 5,6099,July,Homeless Encampment,230,36,3.77
+July,2020,Council District 5,6099,July,Illegal Dumping Pickup,273,5,4.48
+July,2020,Council District 5,6099,July,Metal/Household Appliances,873,3,14.31
+July,2020,Council District 5,6099,July,Multiple Streetlight Issue,15,13,0.25
+July,2020,Council District 5,6099,July,Single Streetlight Issue,33,11,0.54
+July,2020,Council District 6,7721,July,Bulky Items,4208,5,54.5
+July,2020,Council District 6,7721,July,Dead Animal Removal,1,0,0.01
+July,2020,Council District 6,7721,July,Electronic Waste,283,3,3.67
+July,2020,Council District 6,7721,July,Graffiti Removal,727,1,9.42
+July,2020,Council District 6,7721,July,Homeless Encampment,253,17,3.28
+July,2020,Council District 6,7721,July,Illegal Dumping Pickup,1491,5,19.31
+July,2020,Council District 6,7721,July,Metal/Household Appliances,731,3,9.47
+July,2020,Council District 6,7721,July,Multiple Streetlight Issue,7,6,0.09
+July,2020,Council District 6,7721,July,Single Streetlight Issue,20,15,0.26
+July,2020,Council District 7,7766,July,Bulky Items,4916,3,63.3
+July,2020,Council District 7,7766,July,Dead Animal Removal,1,0,0.01
+July,2020,Council District 7,7766,July,Electronic Waste,434,3,5.59
+July,2020,Council District 7,7766,July,Graffiti Removal,526,0,6.77
+July,2020,Council District 7,7766,July,Homeless Encampment,228,16,2.94
+July,2020,Council District 7,7766,July,Illegal Dumping Pickup,596,4,7.67
+July,2020,Council District 7,7766,July,Metal/Household Appliances,1034,3,13.31
+July,2020,Council District 7,7766,July,Multiple Streetlight Issue,8,6,0.1
+July,2020,Council District 7,7766,July,Single Streetlight Issue,23,7,0.3
+July,2020,Council District 8,9928,July,Bulky Items,6492,2,65.39
+July,2020,Council District 8,9928,July,Dead Animal Removal,1,72,0.01
+July,2020,Council District 8,9928,July,Electronic Waste,442,2,4.45
+July,2020,Council District 8,9928,July,Graffiti Removal,266,15,2.68
+July,2020,Council District 8,9928,July,Homeless Encampment,141,31,1.42
+July,2020,Council District 8,9928,July,Illegal Dumping Pickup,1392,4,14.02
+July,2020,Council District 8,9928,July,Metal/Household Appliances,1137,2,11.45
+July,2020,Council District 8,9928,July,Multiple Streetlight Issue,17,33,0.17
+July,2020,Council District 8,9928,July,Single Streetlight Issue,40,20,0.4
+July,2020,Council District 9,6547,July,Bulky Items,3906,3,59.66
+July,2020,Council District 9,6547,July,Electronic Waste,229,2,3.5
+July,2020,Council District 9,6547,July,Graffiti Removal,434,2,6.63
+July,2020,Council District 9,6547,July,Homeless Encampment,232,51,3.54
+July,2020,Council District 9,6547,July,Illegal Dumping Pickup,1018,7,15.55
+July,2020,Council District 9,6547,July,Metal/Household Appliances,631,2,9.64
+July,2020,Council District 9,6547,July,Multiple Streetlight Issue,41,41,0.63
+July,2020,Council District 9,6547,July,Single Streetlight Issue,56,23,0.86
+July,2020,Council District 10,8902,July,Bulky Items,5374,3,60.37
+July,2020,Council District 10,8902,July,Dead Animal Removal,1,55,0.01
+July,2020,Council District 10,8902,July,Electronic Waste,362,3,4.07
+July,2020,Council District 10,8902,July,Graffiti Removal,925,1,10.39
+July,2020,Council District 10,8902,July,Homeless Encampment,324,54,3.64
+July,2020,Council District 10,8902,July,Illegal Dumping Pickup,887,7,9.96
+July,2020,Council District 10,8902,July,Metal/Household Appliances,986,3,11.08
+July,2020,Council District 10,8902,July,Multiple Streetlight Issue,14,17,0.16
+July,2020,Council District 10,8902,July,Single Streetlight Issue,29,25,0.33
+July,2020,Council District 11,6516,July,Bulky Items,3968,4,60.9
+July,2020,Council District 11,6516,July,Electronic Waste,256,3,3.93
+July,2020,Council District 11,6516,July,Graffiti Removal,518,6,7.95
+July,2020,Council District 11,6516,July,Homeless Encampment,475,32,7.29
+July,2020,Council District 11,6516,July,Illegal Dumping Pickup,347,12,5.33
+July,2020,Council District 11,6516,July,Metal/Household Appliances,919,3,14.1
+July,2020,Council District 11,6516,July,Multiple Streetlight Issue,6,3,0.09
+July,2020,Council District 11,6516,July,Single Streetlight Issue,27,1,0.41
+July,2020,Council District 12,7840,July,Bulky Items,5069,3,64.66
+July,2020,Council District 12,7840,July,Electronic Waste,404,3,5.15
+July,2020,Council District 12,7840,July,Graffiti Removal,563,1,7.18
+July,2020,Council District 12,7840,July,Homeless Encampment,115,54,1.47
+July,2020,Council District 12,7840,July,Illegal Dumping Pickup,413,6,5.27
+July,2020,Council District 12,7840,July,Metal/Household Appliances,1235,3,15.75
+July,2020,Council District 12,7840,July,Multiple Streetlight Issue,12,4,0.15
+July,2020,Council District 12,7840,July,Single Streetlight Issue,29,3,0.37
+July,2020,Council District 13,8078,July,Bulky Items,4837,3,59.88
+July,2020,Council District 13,8078,July,Electronic Waste,254,3,3.14
+July,2020,Council District 13,8078,July,Graffiti Removal,1198,4,14.83
+July,2020,Council District 13,8078,July,Homeless Encampment,316,72,3.91
+July,2020,Council District 13,8078,July,Illegal Dumping Pickup,642,11,7.95
+July,2020,Council District 13,8078,July,Metal/Household Appliances,783,3,9.69
+July,2020,Council District 13,8078,July,Multiple Streetlight Issue,17,28,0.21
+July,2020,Council District 13,8078,July,Single Streetlight Issue,31,27,0.38
+July,2020,Council District 14,6403,July,Bulky Items,3833,4,59.86
+July,2020,Council District 14,6403,July,Electronic Waste,303,4,4.73
+July,2020,Council District 14,6403,July,Graffiti Removal,697,12,10.89
+July,2020,Council District 14,6403,July,Homeless Encampment,272,85,4.25
+July,2020,Council District 14,6403,July,Illegal Dumping Pickup,547,12,8.54
+July,2020,Council District 14,6403,July,Metal/Household Appliances,669,3,10.45
+July,2020,Council District 14,6403,July,Multiple Streetlight Issue,29,21,0.45
+July,2020,Council District 14,6403,July,Single Streetlight Issue,53,21,0.83
+July,2020,Council District 15,6956,July,Bulky Items,4491,3,64.56
+July,2020,Council District 15,6956,July,Electronic Waste,377,3,5.42
+July,2020,Council District 15,6956,July,Graffiti Removal,283,1,4.07
+July,2020,Council District 15,6956,July,Homeless Encampment,91,39,1.31
+July,2020,Council District 15,6956,July,Illegal Dumping Pickup,633,6,9.1
+July,2020,Council District 15,6956,July,Metal/Household Appliances,1047,3,15.05
+July,2020,Council District 15,6956,July,Multiple Streetlight Issue,9,113,0.13
+July,2020,Council District 15,6956,July,Single Streetlight Issue,25,14,0.36
+August,2020,Council District 1,6449,August,Bulky Items,3757,4,58.26
+August,2020,Council District 1,6449,August,Electronic Waste,217,3,3.36
+August,2020,Council District 1,6449,August,Graffiti Removal,1091,4,16.92
+August,2020,Council District 1,6449,August,Homeless Encampment,139,44,2.16
+August,2020,Council District 1,6449,August,Illegal Dumping Pickup,529,7,8.2
+August,2020,Council District 1,6449,August,Metal/Household Appliances,668,3,10.36
+August,2020,Council District 1,6449,August,Multiple Streetlight Issue,16,24,0.25
+August,2020,Council District 1,6449,August,Single Streetlight Issue,32,50,0.5
+August,2020,Council District 2,7833,August,Bulky Items,5170,6,66.0
+August,2020,Council District 2,7833,August,Electronic Waste,298,3,3.8
+August,2020,Council District 2,7833,August,Graffiti Removal,662,1,8.45
+August,2020,Council District 2,7833,August,Homeless Encampment,256,35,3.27
+August,2020,Council District 2,7833,August,Illegal Dumping Pickup,570,9,7.28
+August,2020,Council District 2,7833,August,Metal/Household Appliances,840,3,10.72
+August,2020,Council District 2,7833,August,Multiple Streetlight Issue,14,5,0.18
+August,2020,Council District 2,7833,August,Single Streetlight Issue,23,3,0.29
+August,2020,Council District 3,6967,August,Bulky Items,4616,3,66.26
+August,2020,Council District 3,6967,August,Electronic Waste,291,3,4.18
+August,2020,Council District 3,6967,August,Graffiti Removal,357,2,5.12
+August,2020,Council District 3,6967,August,Homeless Encampment,272,28,3.9
+August,2020,Council District 3,6967,August,Illegal Dumping Pickup,468,5,6.72
+August,2020,Council District 3,6967,August,Metal/Household Appliances,912,3,13.09
+August,2020,Council District 3,6967,August,Multiple Streetlight Issue,21,32,0.3
+August,2020,Council District 3,6967,August,Single Streetlight Issue,30,6,0.43
+August,2020,Council District 4,6326,August,Bulky Items,4246,3,67.12
+August,2020,Council District 4,6326,August,Electronic Waste,241,3,3.81
+August,2020,Council District 4,6326,August,Graffiti Removal,424,3,6.7
+August,2020,Council District 4,6326,August,Homeless Encampment,253,32,4.0
+August,2020,Council District 4,6326,August,Illegal Dumping Pickup,323,6,5.11
+August,2020,Council District 4,6326,August,Metal/Household Appliances,755,3,11.93
+August,2020,Council District 4,6326,August,Multiple Streetlight Issue,28,24,0.44
+August,2020,Council District 4,6326,August,Single Streetlight Issue,56,21,0.89
+August,2020,Council District 5,6204,August,Bulky Items,4208,3,67.83
+August,2020,Council District 5,6204,August,Electronic Waste,269,3,4.34
+August,2020,Council District 5,6204,August,Graffiti Removal,364,5,5.87
+August,2020,Council District 5,6204,August,Homeless Encampment,233,29,3.76
+August,2020,Council District 5,6204,August,Illegal Dumping Pickup,295,6,4.75
+August,2020,Council District 5,6204,August,Metal/Household Appliances,776,3,12.51
+August,2020,Council District 5,6204,August,Multiple Streetlight Issue,19,18,0.31
+August,2020,Council District 5,6204,August,Single Streetlight Issue,40,6,0.64
+August,2020,Council District 6,6760,August,Bulky Items,3938,7,58.25
+August,2020,Council District 6,6760,August,Dead Animal Removal,1,1,0.01
+August,2020,Council District 6,6760,August,Electronic Waste,246,3,3.64
+August,2020,Council District 6,6760,August,Graffiti Removal,655,1,9.69
+August,2020,Council District 6,6760,August,Homeless Encampment,184,54,2.72
+August,2020,Council District 6,6760,August,Illegal Dumping Pickup,1101,7,16.29
+August,2020,Council District 6,6760,August,Metal/Household Appliances,599,3,8.86
+August,2020,Council District 6,6760,August,Multiple Streetlight Issue,17,52,0.25
+August,2020,Council District 6,6760,August,Single Streetlight Issue,19,3,0.28
+August,2020,Council District 7,7130,August,Bulky Items,4504,3,63.17
+August,2020,Council District 7,7130,August,Electronic Waste,353,3,4.95
+August,2020,Council District 7,7130,August,Graffiti Removal,263,1,3.69
+August,2020,Council District 7,7130,August,Homeless Encampment,241,26,3.38
+August,2020,Council District 7,7130,August,Illegal Dumping Pickup,816,4,11.44
+August,2020,Council District 7,7130,August,Metal/Household Appliances,923,3,12.95
+August,2020,Council District 7,7130,August,Multiple Streetlight Issue,7,37,0.1
+August,2020,Council District 7,7130,August,Single Streetlight Issue,23,2,0.32
+August,2020,Council District 8,9707,August,Bulky Items,6252,3,64.41
+August,2020,Council District 8,9707,August,Electronic Waste,410,2,4.22
+August,2020,Council District 8,9707,August,Graffiti Removal,283,10,2.92
+August,2020,Council District 8,9707,August,Homeless Encampment,168,39,1.73
+August,2020,Council District 8,9707,August,Illegal Dumping Pickup,1478,7,15.23
+August,2020,Council District 8,9707,August,Metal/Household Appliances,1065,3,10.97
+August,2020,Council District 8,9707,August,Multiple Streetlight Issue,20,41,0.21
+August,2020,Council District 8,9707,August,Single Streetlight Issue,31,12,0.32
+August,2020,Council District 9,6878,August,Bulky Items,4140,3,60.19
+August,2020,Council District 9,6878,August,Dead Animal Removal,1,30,0.01
+August,2020,Council District 9,6878,August,Electronic Waste,234,2,3.4
+August,2020,Council District 9,6878,August,Graffiti Removal,429,2,6.24
+August,2020,Council District 9,6878,August,Homeless Encampment,262,50,3.81
+August,2020,Council District 9,6878,August,Illegal Dumping Pickup,1082,9,15.73
+August,2020,Council District 9,6878,August,Metal/Household Appliances,662,2,9.62
+August,2020,Council District 9,6878,August,Multiple Streetlight Issue,21,70,0.31
+August,2020,Council District 9,6878,August,Single Streetlight Issue,47,28,0.68
+August,2020,Council District 10,8961,August,Bulky Items,5320,3,59.37
+August,2020,Council District 10,8961,August,Electronic Waste,324,2,3.62
+August,2020,Council District 10,8961,August,Graffiti Removal,1028,1,11.47
+August,2020,Council District 10,8961,August,Homeless Encampment,261,67,2.91
+August,2020,Council District 10,8961,August,Illegal Dumping Pickup,1047,7,11.68
+August,2020,Council District 10,8961,August,Metal/Household Appliances,927,3,10.34
+August,2020,Council District 10,8961,August,Multiple Streetlight Issue,16,36,0.18
+August,2020,Council District 10,8961,August,Single Streetlight Issue,38,20,0.42
+August,2020,Council District 11,7227,August,Bulky Items,4416,3,61.1
+August,2020,Council District 11,7227,August,Electronic Waste,283,3,3.92
+August,2020,Council District 11,7227,August,Graffiti Removal,550,8,7.61
+August,2020,Council District 11,7227,August,Homeless Encampment,646,28,8.94
+August,2020,Council District 11,7227,August,Illegal Dumping Pickup,356,10,4.93
+August,2020,Council District 11,7227,August,Metal/Household Appliances,937,3,12.97
+August,2020,Council District 11,7227,August,Multiple Streetlight Issue,7,3,0.1
+August,2020,Council District 11,7227,August,Single Streetlight Issue,32,2,0.44
+August,2020,Council District 12,7946,August,Bulky Items,5284,3,66.5
+August,2020,Council District 12,7946,August,Electronic Waste,412,3,5.18
+August,2020,Council District 12,7946,August,Graffiti Removal,490,1,6.17
+August,2020,Council District 12,7946,August,Homeless Encampment,111,39,1.4
+August,2020,Council District 12,7946,August,Illegal Dumping Pickup,357,4,4.49
+August,2020,Council District 12,7946,August,Metal/Household Appliances,1222,3,15.38
+August,2020,Council District 12,7946,August,Multiple Streetlight Issue,30,25,0.38
+August,2020,Council District 12,7946,August,Single Streetlight Issue,40,12,0.5
+August,2020,Council District 13,7735,August,Bulky Items,4604,4,59.52
+August,2020,Council District 13,7735,August,Dead Animal Removal,1,0,0.01
+August,2020,Council District 13,7735,August,Electronic Waste,275,3,3.56
+August,2020,Council District 13,7735,August,Graffiti Removal,1126,6,14.56
+August,2020,Council District 13,7735,August,Homeless Encampment,288,68,3.72
+August,2020,Council District 13,7735,August,Illegal Dumping Pickup,637,11,8.24
+August,2020,Council District 13,7735,August,Metal/Household Appliances,739,3,9.55
+August,2020,Council District 13,7735,August,Multiple Streetlight Issue,24,26,0.31
+August,2020,Council District 13,7735,August,Single Streetlight Issue,41,16,0.53
+August,2020,Council District 14,6784,August,Bulky Items,4071,3,60.01
+August,2020,Council District 14,6784,August,Electronic Waste,260,3,3.83
+August,2020,Council District 14,6784,August,Graffiti Removal,865,7,12.75
+August,2020,Council District 14,6784,August,Homeless Encampment,187,65,2.76
+August,2020,Council District 14,6784,August,Illegal Dumping Pickup,615,9,9.07
+August,2020,Council District 14,6784,August,Metal/Household Appliances,696,3,10.26
+August,2020,Council District 14,6784,August,Multiple Streetlight Issue,30,40,0.44
+August,2020,Council District 14,6784,August,Single Streetlight Issue,60,37,0.88
+August,2020,Council District 15,6493,August,Bulky Items,4261,3,65.62
+August,2020,Council District 15,6493,August,Electronic Waste,321,3,4.94
+August,2020,Council District 15,6493,August,Graffiti Removal,236,2,3.63
+August,2020,Council District 15,6493,August,Homeless Encampment,93,38,1.43
+August,2020,Council District 15,6493,August,Illegal Dumping Pickup,622,9,9.58
+August,2020,Council District 15,6493,August,Metal/Household Appliances,931,3,14.34
+August,2020,Council District 15,6493,August,Multiple Streetlight Issue,6,62,0.09
+August,2020,Council District 15,6493,August,Single Streetlight Issue,23,9,0.35
+September,2020,Council District 1,6055,September,Bulky Items,3432,5,56.68
+September,2020,Council District 1,6055,September,Electronic Waste,187,3,3.09
+September,2020,Council District 1,6055,September,Graffiti Removal,1111,3,18.35
+September,2020,Council District 1,6055,September,Homeless Encampment,125,42,2.06
+September,2020,Council District 1,6055,September,Illegal Dumping Pickup,523,8,8.64
+September,2020,Council District 1,6055,September,Metal/Household Appliances,624,3,10.31
+September,2020,Council District 1,6055,September,Multiple Streetlight Issue,26,40,0.43
+September,2020,Council District 1,6055,September,Single Streetlight Issue,27,30,0.45
+September,2020,Council District 2,7502,September,Bulky Items,4858,6,64.76
+September,2020,Council District 2,7502,September,Electronic Waste,278,3,3.71
+September,2020,Council District 2,7502,September,Graffiti Removal,884,2,11.78
+September,2020,Council District 2,7502,September,Homeless Encampment,196,32,2.61
+September,2020,Council District 2,7502,September,Illegal Dumping Pickup,515,8,6.86
+September,2020,Council District 2,7502,September,Metal/Household Appliances,718,3,9.57
+September,2020,Council District 2,7502,September,Multiple Streetlight Issue,26,37,0.35
+September,2020,Council District 2,7502,September,Single Streetlight Issue,27,11,0.36
+September,2020,Council District 3,6246,September,Bulky Items,4104,3,65.71
+September,2020,Council District 3,6246,September,Electronic Waste,247,3,3.95
+September,2020,Council District 3,6246,September,Graffiti Removal,353,2,5.65
+September,2020,Council District 3,6246,September,Homeless Encampment,203,48,3.25
+September,2020,Council District 3,6246,September,Illegal Dumping Pickup,419,7,6.71
+September,2020,Council District 3,6246,September,Metal/Household Appliances,857,3,13.72
+September,2020,Council District 3,6246,September,Multiple Streetlight Issue,25,49,0.4
+September,2020,Council District 3,6246,September,Single Streetlight Issue,38,15,0.61
+September,2020,Council District 4,6334,September,Bulky Items,4233,3,66.83
+September,2020,Council District 4,6334,September,Dead Animal Removal,1,0,0.02
+September,2020,Council District 4,6334,September,Electronic Waste,234,3,3.69
+September,2020,Council District 4,6334,September,Graffiti Removal,458,4,7.23
+September,2020,Council District 4,6334,September,Homeless Encampment,189,20,2.98
+September,2020,Council District 4,6334,September,Illegal Dumping Pickup,320,6,5.05
+September,2020,Council District 4,6334,September,Metal/Household Appliances,801,3,12.65
+September,2020,Council District 4,6334,September,Multiple Streetlight Issue,43,35,0.68
+September,2020,Council District 4,6334,September,Single Streetlight Issue,55,28,0.87
+September,2020,Council District 5,5968,September,Bulky Items,3910,3,65.52
+September,2020,Council District 5,5968,September,Dead Animal Removal,1,51,0.02
+September,2020,Council District 5,5968,September,Electronic Waste,251,3,4.21
+September,2020,Council District 5,5968,September,Graffiti Removal,373,4,6.25
+September,2020,Council District 5,5968,September,Homeless Encampment,233,31,3.9
+September,2020,Council District 5,5968,September,Illegal Dumping Pickup,369,5,6.18
+September,2020,Council District 5,5968,September,Metal/Household Appliances,783,3,13.12
+September,2020,Council District 5,5968,September,Multiple Streetlight Issue,15,22,0.25
+September,2020,Council District 5,5968,September,Single Streetlight Issue,33,11,0.55
+September,2020,Council District 6,7084,September,Bulky Items,4069,6,57.44
+September,2020,Council District 6,7084,September,Dead Animal Removal,1,69,0.01
+September,2020,Council District 6,7084,September,Electronic Waste,236,3,3.33
+September,2020,Council District 6,7084,September,Graffiti Removal,739,1,10.43
+September,2020,Council District 6,7084,September,Homeless Encampment,178,51,2.51
+September,2020,Council District 6,7084,September,Illegal Dumping Pickup,1113,7,15.71
+September,2020,Council District 6,7084,September,Metal/Household Appliances,702,3,9.91
+September,2020,Council District 6,7084,September,Multiple Streetlight Issue,22,35,0.31
+September,2020,Council District 6,7084,September,Single Streetlight Issue,24,15,0.34
+September,2020,Council District 7,7355,September,Bulky Items,4507,3,61.28
+September,2020,Council District 7,7355,September,Electronic Waste,338,3,4.6
+September,2020,Council District 7,7355,September,Graffiti Removal,356,1,4.84
+September,2020,Council District 7,7355,September,Homeless Encampment,217,32,2.95
+September,2020,Council District 7,7355,September,Illegal Dumping Pickup,967,5,13.15
+September,2020,Council District 7,7355,September,Metal/Household Appliances,931,3,12.66
+September,2020,Council District 7,7355,September,Multiple Streetlight Issue,14,25,0.19
+September,2020,Council District 7,7355,September,Single Streetlight Issue,25,22,0.34
+September,2020,Council District 8,9628,September,Bulky Items,6109,3,63.45
+September,2020,Council District 8,9628,September,Electronic Waste,393,2,4.08
+September,2020,Council District 8,9628,September,Graffiti Removal,305,11,3.17
+September,2020,Council District 8,9628,September,Homeless Encampment,163,36,1.69
+September,2020,Council District 8,9628,September,Illegal Dumping Pickup,1532,7,15.91
+September,2020,Council District 8,9628,September,Metal/Household Appliances,1065,3,11.06
+September,2020,Council District 8,9628,September,Multiple Streetlight Issue,16,67,0.17
+September,2020,Council District 8,9628,September,Single Streetlight Issue,45,37,0.47
+September,2020,Council District 9,6740,September,Bulky Items,3991,3,59.21
+September,2020,Council District 9,6740,September,Electronic Waste,250,2,3.71
+September,2020,Council District 9,6740,September,Graffiti Removal,393,3,5.83
+September,2020,Council District 9,6740,September,Homeless Encampment,245,58,3.64
+September,2020,Council District 9,6740,September,Illegal Dumping Pickup,1111,8,16.48
+September,2020,Council District 9,6740,September,Metal/Household Appliances,680,2,10.09
+September,2020,Council District 9,6740,September,Multiple Streetlight Issue,19,47,0.28
+September,2020,Council District 9,6740,September,Single Streetlight Issue,51,39,0.76
+September,2020,Council District 10,8470,September,Bulky Items,4915,3,58.03
+September,2020,Council District 10,8470,September,Dead Animal Removal,1,1,0.01
+September,2020,Council District 10,8470,September,Electronic Waste,302,3,3.57
+September,2020,Council District 10,8470,September,Graffiti Removal,1076,2,12.7
+September,2020,Council District 10,8470,September,Homeless Encampment,263,55,3.11
+September,2020,Council District 10,8470,September,Illegal Dumping Pickup,916,8,10.81
+September,2020,Council District 10,8470,September,Metal/Household Appliances,950,3,11.22
+September,2020,Council District 10,8470,September,Multiple Streetlight Issue,19,32,0.22
+September,2020,Council District 10,8470,September,Single Streetlight Issue,28,25,0.33
+September,2020,Council District 11,6488,September,Bulky Items,3771,4,58.12
+September,2020,Council District 11,6488,September,Dead Animal Removal,2,24,0.03
+September,2020,Council District 11,6488,September,Electronic Waste,202,3,3.11
+September,2020,Council District 11,6488,September,Graffiti Removal,769,5,11.85
+September,2020,Council District 11,6488,September,Homeless Encampment,525,20,8.09
+September,2020,Council District 11,6488,September,Illegal Dumping Pickup,357,8,5.5
+September,2020,Council District 11,6488,September,Metal/Household Appliances,822,3,12.67
+September,2020,Council District 11,6488,September,Multiple Streetlight Issue,9,5,0.14
+September,2020,Council District 11,6488,September,Single Streetlight Issue,31,8,0.48
+September,2020,Council District 12,7209,September,Bulky Items,4709,3,65.32
+September,2020,Council District 12,7209,September,Electronic Waste,289,3,4.01
+September,2020,Council District 12,7209,September,Graffiti Removal,466,2,6.46
+September,2020,Council District 12,7209,September,Homeless Encampment,125,35,1.73
+September,2020,Council District 12,7209,September,Illegal Dumping Pickup,402,5,5.58
+September,2020,Council District 12,7209,September,Metal/Household Appliances,1092,3,15.15
+September,2020,Council District 12,7209,September,Multiple Streetlight Issue,55,19,0.76
+September,2020,Council District 12,7209,September,Single Streetlight Issue,71,9,0.98
+September,2020,Council District 13,7553,September,Bulky Items,4547,4,60.2
+September,2020,Council District 13,7553,September,Dead Animal Removal,1,1,0.01
+September,2020,Council District 13,7553,September,Electronic Waste,233,3,3.08
+September,2020,Council District 13,7553,September,Graffiti Removal,1132,5,14.99
+September,2020,Council District 13,7553,September,Homeless Encampment,282,57,3.73
+September,2020,Council District 13,7553,September,Illegal Dumping Pickup,585,9,7.75
+September,2020,Council District 13,7553,September,Metal/Household Appliances,705,3,9.33
+September,2020,Council District 13,7553,September,Multiple Streetlight Issue,23,29,0.3
+September,2020,Council District 13,7553,September,Single Streetlight Issue,45,12,0.6
+September,2020,Council District 14,6244,September,Bulky Items,3459,4,55.4
+September,2020,Council District 14,6244,September,Dead Animal Removal,1,20,0.02
+September,2020,Council District 14,6244,September,Electronic Waste,235,3,3.76
+September,2020,Council District 14,6244,September,Graffiti Removal,1205,8,19.3
+September,2020,Council District 14,6244,September,Homeless Encampment,165,58,2.64
+September,2020,Council District 14,6244,September,Illegal Dumping Pickup,516,10,8.26
+September,2020,Council District 14,6244,September,Metal/Household Appliances,588,3,9.42
+September,2020,Council District 14,6244,September,Multiple Streetlight Issue,36,28,0.58
+September,2020,Council District 14,6244,September,Single Streetlight Issue,39,21,0.62
+September,2020,Council District 15,6399,September,Bulky Items,4278,3,66.85
+September,2020,Council District 15,6399,September,Electronic Waste,248,3,3.88
+September,2020,Council District 15,6399,September,Graffiti Removal,218,2,3.41
+September,2020,Council District 15,6399,September,Homeless Encampment,98,31,1.53
+September,2020,Council District 15,6399,September,Illegal Dumping Pickup,652,7,10.19
+September,2020,Council District 15,6399,September,Metal/Household Appliances,870,3,13.6
+September,2020,Council District 15,6399,September,Multiple Streetlight Issue,16,62,0.25
+September,2020,Council District 15,6399,September,Single Streetlight Issue,19,18,0.3
+October,2020,Council District 1,5682,October,Bulky Items,3199,4,56.3
+October,2020,Council District 1,5682,October,Electronic Waste,174,3,3.06
+October,2020,Council District 1,5682,October,Graffiti Removal,969,3,17.05
+October,2020,Council District 1,5682,October,Homeless Encampment,146,25,2.57
+October,2020,Council District 1,5682,October,Illegal Dumping Pickup,541,6,9.52
+October,2020,Council District 1,5682,October,Metal/Household Appliances,598,3,10.52
+October,2020,Council District 1,5682,October,Multiple Streetlight Issue,16,37,0.28
+October,2020,Council District 1,5682,October,Single Streetlight Issue,39,30,0.69
+October,2020,Council District 2,7475,October,Bulky Items,4860,3,65.02
+October,2020,Council District 2,7475,October,Electronic Waste,253,2,3.38
+October,2020,Council District 2,7475,October,Graffiti Removal,895,2,11.97
+October,2020,Council District 2,7475,October,Homeless Encampment,157,28,2.1
+October,2020,Council District 2,7475,October,Illegal Dumping Pickup,569,6,7.61
+October,2020,Council District 2,7475,October,Metal/Household Appliances,702,3,9.39
+October,2020,Council District 2,7475,October,Multiple Streetlight Issue,12,64,0.16
+October,2020,Council District 2,7475,October,Single Streetlight Issue,27,38,0.36
+October,2020,Council District 3,6594,October,Bulky Items,4305,3,65.29
+October,2020,Council District 3,6594,October,Electronic Waste,277,3,4.2
+October,2020,Council District 3,6594,October,Graffiti Removal,416,3,6.31
+October,2020,Council District 3,6594,October,Homeless Encampment,268,21,4.06
+October,2020,Council District 3,6594,October,Illegal Dumping Pickup,446,6,6.76
+October,2020,Council District 3,6594,October,Metal/Household Appliances,820,3,12.44
+October,2020,Council District 3,6594,October,Multiple Streetlight Issue,24,69,0.36
+October,2020,Council District 3,6594,October,Single Streetlight Issue,38,22,0.58
+October,2020,Council District 4,5831,October,Bulky Items,3887,3,66.66
+October,2020,Council District 4,5831,October,Dead Animal Removal,1,3,0.02
+October,2020,Council District 4,5831,October,Electronic Waste,221,3,3.79
+October,2020,Council District 4,5831,October,Graffiti Removal,426,3,7.31
+October,2020,Council District 4,5831,October,Homeless Encampment,208,14,3.57
+October,2020,Council District 4,5831,October,Illegal Dumping Pickup,315,5,5.4
+October,2020,Council District 4,5831,October,Metal/Household Appliances,685,3,11.75
+October,2020,Council District 4,5831,October,Multiple Streetlight Issue,35,22,0.6
+October,2020,Council District 4,5831,October,Single Streetlight Issue,53,24,0.91
+October,2020,Council District 5,5381,October,Bulky Items,3534,3,65.68
+October,2020,Council District 5,5381,October,Dead Animal Removal,2,1,0.04
+October,2020,Council District 5,5381,October,Electronic Waste,216,3,4.01
+October,2020,Council District 5,5381,October,Graffiti Removal,345,5,6.41
+October,2020,Council District 5,5381,October,Homeless Encampment,216,17,4.01
+October,2020,Council District 5,5381,October,Illegal Dumping Pickup,320,4,5.95
+October,2020,Council District 5,5381,October,Metal/Household Appliances,705,3,13.1
+October,2020,Council District 5,5381,October,Multiple Streetlight Issue,11,2,0.2
+October,2020,Council District 5,5381,October,Single Streetlight Issue,32,9,0.59
+October,2020,Council District 6,7054,October,Bulky Items,3878,4,54.98
+October,2020,Council District 6,7054,October,Electronic Waste,222,3,3.15
+October,2020,Council District 6,7054,October,Graffiti Removal,888,1,12.59
+October,2020,Council District 6,7054,October,Homeless Encampment,208,28,2.95
+October,2020,Council District 6,7054,October,Illegal Dumping Pickup,1190,4,16.87
+October,2020,Council District 6,7054,October,Metal/Household Appliances,610,3,8.65
+October,2020,Council District 6,7054,October,Multiple Streetlight Issue,23,47,0.33
+October,2020,Council District 6,7054,October,Single Streetlight Issue,35,30,0.5
+October,2020,Council District 7,7489,October,Bulky Items,4562,3,60.92
+October,2020,Council District 7,7489,October,Dead Animal Removal,1,1,0.01
+October,2020,Council District 7,7489,October,Electronic Waste,338,3,4.51
+October,2020,Council District 7,7489,October,Graffiti Removal,347,1,4.63
+October,2020,Council District 7,7489,October,Homeless Encampment,315,22,4.21
+October,2020,Council District 7,7489,October,Illegal Dumping Pickup,965,5,12.89
+October,2020,Council District 7,7489,October,Metal/Household Appliances,925,3,12.35
+October,2020,Council District 7,7489,October,Multiple Streetlight Issue,8,52,0.11
+October,2020,Council District 7,7489,October,Single Streetlight Issue,28,22,0.37
+October,2020,Council District 8,8950,October,Bulky Items,5374,3,60.04
+October,2020,Council District 8,8950,October,Electronic Waste,346,2,3.87
+October,2020,Council District 8,8950,October,Graffiti Removal,372,5,4.16
+October,2020,Council District 8,8950,October,Homeless Encampment,177,28,1.98
+October,2020,Council District 8,8950,October,Illegal Dumping Pickup,1659,7,18.54
+October,2020,Council District 8,8950,October,Metal/Household Appliances,982,2,10.97
+October,2020,Council District 8,8950,October,Multiple Streetlight Issue,10,51,0.11
+October,2020,Council District 8,8950,October,Single Streetlight Issue,30,32,0.34
+October,2020,Council District 9,6195,October,Bulky Items,3468,4,55.98
+October,2020,Council District 9,6195,October,Electronic Waste,211,2,3.41
+October,2020,Council District 9,6195,October,Graffiti Removal,438,3,7.07
+October,2020,Council District 9,6195,October,Homeless Encampment,233,43,3.76
+October,2020,Council District 9,6195,October,Illegal Dumping Pickup,1155,10,18.64
+October,2020,Council District 9,6195,October,Metal/Household Appliances,602,2,9.72
+October,2020,Council District 9,6195,October,Multiple Streetlight Issue,35,41,0.56
+October,2020,Council District 9,6195,October,Single Streetlight Issue,53,31,0.86
+October,2020,Council District 10,8334,October,Bulky Items,4741,3,56.89
+October,2020,Council District 10,8334,October,Dead Animal Removal,1,1,0.01
+October,2020,Council District 10,8334,October,Electronic Waste,293,3,3.52
+October,2020,Council District 10,8334,October,Graffiti Removal,1181,2,14.17
+October,2020,Council District 10,8334,October,Homeless Encampment,307,34,3.68
+October,2020,Council District 10,8334,October,Illegal Dumping Pickup,953,7,11.44
+October,2020,Council District 10,8334,October,Metal/Household Appliances,815,3,9.78
+October,2020,Council District 10,8334,October,Multiple Streetlight Issue,6,58,0.07
+October,2020,Council District 10,8334,October,Single Streetlight Issue,37,32,0.44
+October,2020,Council District 11,6233,October,Bulky Items,3682,3,59.07
+October,2020,Council District 11,6233,October,Electronic Waste,200,3,3.21
+October,2020,Council District 11,6233,October,Graffiti Removal,654,5,10.49
+October,2020,Council District 11,6233,October,Homeless Encampment,462,17,7.41
+October,2020,Council District 11,6233,October,Illegal Dumping Pickup,398,6,6.39
+October,2020,Council District 11,6233,October,Metal/Household Appliances,792,3,12.71
+October,2020,Council District 11,6233,October,Multiple Streetlight Issue,12,3,0.19
+October,2020,Council District 11,6233,October,Single Streetlight Issue,33,2,0.53
+October,2020,Council District 12,7209,October,Bulky Items,4677,3,64.88
+October,2020,Council District 12,7209,October,Electronic Waste,269,3,3.73
+October,2020,Council District 12,7209,October,Graffiti Removal,530,2,7.35
+October,2020,Council District 12,7209,October,Homeless Encampment,134,17,1.86
+October,2020,Council District 12,7209,October,Illegal Dumping Pickup,411,5,5.7
+October,2020,Council District 12,7209,October,Metal/Household Appliances,1044,3,14.48
+October,2020,Council District 12,7209,October,Multiple Streetlight Issue,72,41,1.0
+October,2020,Council District 12,7209,October,Single Streetlight Issue,72,15,1.0
+October,2020,Council District 13,6838,October,Bulky Items,4032,4,58.96
+October,2020,Council District 13,6838,October,Electronic Waste,188,3,2.75
+October,2020,Council District 13,6838,October,Graffiti Removal,1011,4,14.79
+October,2020,Council District 13,6838,October,Homeless Encampment,354,39,5.18
+October,2020,Council District 13,6838,October,Illegal Dumping Pickup,527,7,7.71
+October,2020,Council District 13,6838,October,Metal/Household Appliances,664,3,9.71
+October,2020,Council District 13,6838,October,Multiple Streetlight Issue,11,33,0.16
+October,2020,Council District 13,6838,October,Single Streetlight Issue,51,21,0.75
+October,2020,Council District 14,6069,October,Bulky Items,3447,3,56.8
+October,2020,Council District 14,6069,October,Dead Animal Removal,2,0,0.03
+October,2020,Council District 14,6069,October,Electronic Waste,223,2,3.67
+October,2020,Council District 14,6069,October,Graffiti Removal,994,15,16.38
+October,2020,Council District 14,6069,October,Homeless Encampment,190,34,3.13
+October,2020,Council District 14,6069,October,Illegal Dumping Pickup,586,8,9.66
+October,2020,Council District 14,6069,October,Metal/Household Appliances,560,3,9.23
+October,2020,Council District 14,6069,October,Multiple Streetlight Issue,21,30,0.35
+October,2020,Council District 14,6069,October,Single Streetlight Issue,46,43,0.76
+October,2020,Council District 15,6251,October,Bulky Items,4014,3,64.21
+October,2020,Council District 15,6251,October,Dead Animal Removal,1,1,0.02
+October,2020,Council District 15,6251,October,Electronic Waste,258,3,4.13
+October,2020,Council District 15,6251,October,Graffiti Removal,219,2,3.5
+October,2020,Council District 15,6251,October,Homeless Encampment,92,35,1.47
+October,2020,Council District 15,6251,October,Illegal Dumping Pickup,672,6,10.75
+October,2020,Council District 15,6251,October,Metal/Household Appliances,960,3,15.36
+October,2020,Council District 15,6251,October,Multiple Streetlight Issue,10,71,0.16
+October,2020,Council District 15,6251,October,Single Streetlight Issue,25,5,0.4
+November,2020,Council District 1,5054,November,Bulky Items,2848,3,56.35
+November,2020,Council District 1,5054,November,Electronic Waste,159,3,3.15
+November,2020,Council District 1,5054,November,Graffiti Removal,913,3,18.06
+November,2020,Council District 1,5054,November,Homeless Encampment,124,24,2.45
+November,2020,Council District 1,5054,November,Illegal Dumping Pickup,434,6,8.59
+November,2020,Council District 1,5054,November,Metal/Household Appliances,526,2,10.41
+November,2020,Council District 1,5054,November,Multiple Streetlight Issue,13,29,0.26
+November,2020,Council District 1,5054,November,Single Streetlight Issue,37,19,0.73
+November,2020,Council District 2,6631,November,Bulky Items,4301,3,64.86
+November,2020,Council District 2,6631,November,Electronic Waste,267,2,4.03
+November,2020,Council District 2,6631,November,Graffiti Removal,712,2,10.74
+November,2020,Council District 2,6631,November,Homeless Encampment,156,20,2.35
+November,2020,Council District 2,6631,November,Illegal Dumping Pickup,487,4,7.34
+November,2020,Council District 2,6631,November,Metal/Household Appliances,668,3,10.07
+November,2020,Council District 2,6631,November,Multiple Streetlight Issue,16,66,0.24
+November,2020,Council District 2,6631,November,Single Streetlight Issue,24,27,0.36
+November,2020,Council District 3,5683,November,Bulky Items,3741,3,65.83
+November,2020,Council District 3,5683,November,Electronic Waste,232,3,4.08
+November,2020,Council District 3,5683,November,Graffiti Removal,395,2,6.95
+November,2020,Council District 3,5683,November,Homeless Encampment,138,11,2.43
+November,2020,Council District 3,5683,November,Illegal Dumping Pickup,336,4,5.91
+November,2020,Council District 3,5683,November,Metal/Household Appliances,765,3,13.46
+November,2020,Council District 3,5683,November,Multiple Streetlight Issue,37,48,0.65
+November,2020,Council District 3,5683,November,Single Streetlight Issue,39,24,0.69
+November,2020,Council District 4,4982,November,Bulky Items,3273,3,65.7
+November,2020,Council District 4,4982,November,Electronic Waste,224,2,4.5
+November,2020,Council District 4,4982,November,Graffiti Removal,375,3,7.53
+November,2020,Council District 4,4982,November,Homeless Encampment,135,14,2.71
+November,2020,Council District 4,4982,November,Illegal Dumping Pickup,242,4,4.86
+November,2020,Council District 4,4982,November,Metal/Household Appliances,662,3,13.29
+November,2020,Council District 4,4982,November,Multiple Streetlight Issue,27,30,0.54
+November,2020,Council District 4,4982,November,Single Streetlight Issue,44,25,0.88
+November,2020,Council District 5,4722,November,Bulky Items,3099,3,65.63
+November,2020,Council District 5,4722,November,Electronic Waste,204,3,4.32
+November,2020,Council District 5,4722,November,Graffiti Removal,318,5,6.73
+November,2020,Council District 5,4722,November,Homeless Encampment,172,7,3.64
+November,2020,Council District 5,4722,November,Illegal Dumping Pickup,262,4,5.55
+November,2020,Council District 5,4722,November,Metal/Household Appliances,601,3,12.73
+November,2020,Council District 5,4722,November,Multiple Streetlight Issue,15,20,0.32
+November,2020,Council District 5,4722,November,Single Streetlight Issue,51,24,1.08
+November,2020,Council District 6,5821,November,Bulky Items,3386,3,58.17
+November,2020,Council District 6,5821,November,Electronic Waste,235,2,4.04
+November,2020,Council District 6,5821,November,Graffiti Removal,707,2,12.15
+November,2020,Council District 6,5821,November,Homeless Encampment,141,14,2.42
+November,2020,Council District 6,5821,November,Illegal Dumping Pickup,795,3,13.66
+November,2020,Council District 6,5821,November,Metal/Household Appliances,519,3,8.92
+November,2020,Council District 6,5821,November,Multiple Streetlight Issue,19,61,0.33
+November,2020,Council District 6,5821,November,Single Streetlight Issue,19,22,0.33
+November,2020,Council District 7,5887,November,Bulky Items,3726,3,63.29
+November,2020,Council District 7,5887,November,Electronic Waste,294,3,4.99
+November,2020,Council District 7,5887,November,Graffiti Removal,253,0,4.3
+November,2020,Council District 7,5887,November,Homeless Encampment,259,16,4.4
+November,2020,Council District 7,5887,November,Illegal Dumping Pickup,641,4,10.89
+November,2020,Council District 7,5887,November,Metal/Household Appliances,685,3,11.64
+November,2020,Council District 7,5887,November,Multiple Streetlight Issue,13,33,0.22
+November,2020,Council District 7,5887,November,Single Streetlight Issue,16,27,0.27
+November,2020,Council District 8,7110,November,Bulky Items,4375,3,61.53
+November,2020,Council District 8,7110,November,Electronic Waste,311,2,4.37
+November,2020,Council District 8,7110,November,Graffiti Removal,355,5,4.99
+November,2020,Council District 8,7110,November,Homeless Encampment,101,13,1.42
+November,2020,Council District 8,7110,November,Illegal Dumping Pickup,1152,5,16.2
+November,2020,Council District 8,7110,November,Metal/Household Appliances,777,2,10.93
+November,2020,Council District 8,7110,November,Multiple Streetlight Issue,13,51,0.18
+November,2020,Council District 8,7110,November,Single Streetlight Issue,26,18,0.37
+November,2020,Council District 9,5381,November,Bulky Items,3053,3,56.74
+November,2020,Council District 9,5381,November,Electronic Waste,200,2,3.72
+November,2020,Council District 9,5381,November,Graffiti Removal,477,3,8.86
+November,2020,Council District 9,5381,November,Homeless Encampment,157,25,2.92
+November,2020,Council District 9,5381,November,Illegal Dumping Pickup,842,6,15.65
+November,2020,Council District 9,5381,November,Metal/Household Appliances,528,2,9.81
+November,2020,Council District 9,5381,November,Multiple Streetlight Issue,63,53,1.17
+November,2020,Council District 9,5381,November,Single Streetlight Issue,61,40,1.13
+November,2020,Council District 10,7403,November,Bulky Items,4108,3,55.49
+November,2020,Council District 10,7403,November,Electronic Waste,266,2,3.59
+November,2020,Council District 10,7403,November,Graffiti Removal,1127,2,15.22
+November,2020,Council District 10,7403,November,Homeless Encampment,231,21,3.12
+November,2020,Council District 10,7403,November,Illegal Dumping Pickup,850,5,11.48
+November,2020,Council District 10,7403,November,Metal/Household Appliances,740,3,10.0
+November,2020,Council District 10,7403,November,Multiple Streetlight Issue,12,32,0.16
+November,2020,Council District 10,7403,November,Single Streetlight Issue,69,24,0.93
+November,2020,Council District 11,4572,November,Bulky Items,2822,3,61.72
+November,2020,Council District 11,4572,November,Electronic Waste,144,3,3.15
+November,2020,Council District 11,4572,November,Graffiti Removal,470,4,10.28
+November,2020,Council District 11,4572,November,Homeless Encampment,243,12,5.31
+November,2020,Council District 11,4572,November,Illegal Dumping Pickup,293,5,6.41
+November,2020,Council District 11,4572,November,Metal/Household Appliances,555,3,12.14
+November,2020,Council District 11,4572,November,Multiple Streetlight Issue,12,2,0.26
+November,2020,Council District 11,4572,November,Single Streetlight Issue,33,1,0.72
+November,2020,Council District 12,7290,November,Bulky Items,4628,3,63.48
+November,2020,Council District 12,7290,November,Electronic Waste,334,3,4.58
+November,2020,Council District 12,7290,November,Graffiti Removal,594,2,8.15
+November,2020,Council District 12,7290,November,Homeless Encampment,142,6,1.95
+November,2020,Council District 12,7290,November,Illegal Dumping Pickup,391,3,5.36
+November,2020,Council District 12,7290,November,Metal/Household Appliances,1087,3,14.91
+November,2020,Council District 12,7290,November,Multiple Streetlight Issue,59,54,0.81
+November,2020,Council District 12,7290,November,Single Streetlight Issue,55,29,0.75
+November,2020,Council District 13,6264,November,Bulky Items,3548,3,56.64
+November,2020,Council District 13,6264,November,Electronic Waste,202,2,3.22
+November,2020,Council District 13,6264,November,Graffiti Removal,1116,4,17.82
+November,2020,Council District 13,6264,November,Homeless Encampment,271,20,4.33
+November,2020,Council District 13,6264,November,Illegal Dumping Pickup,455,5,7.26
+November,2020,Council District 13,6264,November,Metal/Household Appliances,619,2,9.88
+November,2020,Council District 13,6264,November,Multiple Streetlight Issue,21,12,0.34
+November,2020,Council District 13,6264,November,Single Streetlight Issue,32,16,0.51
+November,2020,Council District 14,5506,November,Bulky Items,3185,3,57.85
+November,2020,Council District 14,5506,November,Electronic Waste,214,2,3.89
+November,2020,Council District 14,5506,November,Graffiti Removal,841,9,15.27
+November,2020,Council District 14,5506,November,Homeless Encampment,172,25,3.12
+November,2020,Council District 14,5506,November,Illegal Dumping Pickup,445,6,8.08
+November,2020,Council District 14,5506,November,Metal/Household Appliances,583,2,10.59
+November,2020,Council District 14,5506,November,Multiple Streetlight Issue,24,29,0.44
+November,2020,Council District 14,5506,November,Single Streetlight Issue,42,18,0.76
+November,2020,Council District 15,5247,November,Bulky Items,3448,3,65.71
+November,2020,Council District 15,5247,November,Electronic Waste,230,4,4.38
+November,2020,Council District 15,5247,November,Graffiti Removal,191,2,3.64
+November,2020,Council District 15,5247,November,Homeless Encampment,80,22,1.52
+November,2020,Council District 15,5247,November,Illegal Dumping Pickup,498,6,9.49
+November,2020,Council District 15,5247,November,Metal/Household Appliances,775,4,14.77
+November,2020,Council District 15,5247,November,Multiple Streetlight Issue,7,48,0.13
+November,2020,Council District 15,5247,November,Single Streetlight Issue,18,26,0.34
+December,2020,Council District 1,5239,December,Bulky Items,2889,3,55.14
+December,2020,Council District 1,5239,December,Electronic Waste,181,3,3.45
+December,2020,Council District 1,5239,December,Graffiti Removal,1043,3,19.91
+December,2020,Council District 1,5239,December,Homeless Encampment,110,21,2.1
+December,2020,Council District 1,5239,December,Illegal Dumping Pickup,438,6,8.36
+December,2020,Council District 1,5239,December,Metal/Household Appliances,514,3,9.81
+December,2020,Council District 1,5239,December,Multiple Streetlight Issue,28,27,0.53
+December,2020,Council District 1,5239,December,Single Streetlight Issue,36,29,0.69
+December,2020,Council District 2,6494,December,Bulky Items,4190,3,64.52
+December,2020,Council District 2,6494,December,Electronic Waste,258,3,3.97
+December,2020,Council District 2,6494,December,Graffiti Removal,785,2,12.09
+December,2020,Council District 2,6494,December,Homeless Encampment,127,16,1.96
+December,2020,Council District 2,6494,December,Illegal Dumping Pickup,486,4,7.48
+December,2020,Council District 2,6494,December,Metal/Household Appliances,628,3,9.67
+December,2020,Council District 2,6494,December,Multiple Streetlight Issue,5,49,0.08
+December,2020,Council District 2,6494,December,Single Streetlight Issue,15,24,0.23
+December,2020,Council District 3,5952,December,Bulky Items,3816,3,64.11
+December,2020,Council District 3,5952,December,Dead Animal Removal,1,1,0.02
+December,2020,Council District 3,5952,December,Electronic Waste,252,3,4.23
+December,2020,Council District 3,5952,December,Graffiti Removal,463,4,7.78
+December,2020,Council District 3,5952,December,Homeless Encampment,183,11,3.07
+December,2020,Council District 3,5952,December,Illegal Dumping Pickup,361,3,6.07
+December,2020,Council District 3,5952,December,Metal/Household Appliances,822,3,13.81
+December,2020,Council District 3,5952,December,Multiple Streetlight Issue,23,59,0.39
+December,2020,Council District 3,5952,December,Single Streetlight Issue,31,36,0.52
+December,2020,Council District 4,5388,December,Bulky Items,3568,3,66.22
+December,2020,Council District 4,5388,December,Electronic Waste,220,3,4.08
+December,2020,Council District 4,5388,December,Graffiti Removal,423,5,7.85
+December,2020,Council District 4,5388,December,Homeless Encampment,139,15,2.58
+December,2020,Council District 4,5388,December,Illegal Dumping Pickup,297,4,5.51
+December,2020,Council District 4,5388,December,Metal/Household Appliances,665,2,12.34
+December,2020,Council District 4,5388,December,Multiple Streetlight Issue,26,28,0.48
+December,2020,Council District 4,5388,December,Single Streetlight Issue,50,30,0.93
+December,2020,Council District 5,5164,December,Bulky Items,3366,3,65.18
+December,2020,Council District 5,5164,December,Electronic Waste,253,2,4.9
+December,2020,Council District 5,5164,December,Graffiti Removal,371,6,7.18
+December,2020,Council District 5,5164,December,Homeless Encampment,193,20,3.74
+December,2020,Council District 5,5164,December,Illegal Dumping Pickup,260,5,5.03
+December,2020,Council District 5,5164,December,Metal/Household Appliances,661,2,12.8
+December,2020,Council District 5,5164,December,Multiple Streetlight Issue,25,14,0.48
+December,2020,Council District 5,5164,December,Single Streetlight Issue,35,19,0.68
+December,2020,Council District 6,6720,December,Bulky Items,3904,3,58.1
+December,2020,Council District 6,6720,December,Electronic Waste,280,2,4.17
+December,2020,Council District 6,6720,December,Graffiti Removal,890,2,13.24
+December,2020,Council District 6,6720,December,Homeless Encampment,167,15,2.49
+December,2020,Council District 6,6720,December,Illegal Dumping Pickup,874,3,13.01
+December,2020,Council District 6,6720,December,Metal/Household Appliances,574,2,8.54
+December,2020,Council District 6,6720,December,Multiple Streetlight Issue,12,52,0.18
+December,2020,Council District 6,6720,December,Single Streetlight Issue,19,28,0.28
+December,2020,Council District 7,6256,December,Bulky Items,4001,3,63.95
+December,2020,Council District 7,6256,December,Electronic Waste,322,3,5.15
+December,2020,Council District 7,6256,December,Graffiti Removal,316,1,5.05
+December,2020,Council District 7,6256,December,Homeless Encampment,201,11,3.21
+December,2020,Council District 7,6256,December,Illegal Dumping Pickup,647,3,10.34
+December,2020,Council District 7,6256,December,Metal/Household Appliances,741,3,11.84
+December,2020,Council District 7,6256,December,Multiple Streetlight Issue,15,29,0.24
+December,2020,Council District 7,6256,December,Single Streetlight Issue,13,28,0.21
+December,2020,Council District 8,6896,December,Bulky Items,4301,3,62.37
+December,2020,Council District 8,6896,December,Dead Animal Removal,1,1,0.01
+December,2020,Council District 8,6896,December,Electronic Waste,323,2,4.68
+December,2020,Council District 8,6896,December,Graffiti Removal,334,4,4.84
+December,2020,Council District 8,6896,December,Homeless Encampment,98,19,1.42
+December,2020,Council District 8,6896,December,Illegal Dumping Pickup,1096,8,15.89
+December,2020,Council District 8,6896,December,Metal/Household Appliances,716,2,10.38
+December,2020,Council District 8,6896,December,Multiple Streetlight Issue,9,49,0.13
+December,2020,Council District 8,6896,December,Single Streetlight Issue,18,23,0.26
+December,2020,Council District 9,5305,December,Bulky Items,3066,2,57.79
+December,2020,Council District 9,5305,December,Electronic Waste,184,2,3.47
+December,2020,Council District 9,5305,December,Graffiti Removal,466,3,8.78
+December,2020,Council District 9,5305,December,Homeless Encampment,134,24,2.53
+December,2020,Council District 9,5305,December,Illegal Dumping Pickup,837,6,15.78
+December,2020,Council District 9,5305,December,Metal/Household Appliances,539,2,10.16
+December,2020,Council District 9,5305,December,Multiple Streetlight Issue,26,36,0.49
+December,2020,Council District 9,5305,December,Single Streetlight Issue,53,37,1.0
+December,2020,Council District 10,7377,December,Bulky Items,4180,3,56.66
+December,2020,Council District 10,7377,December,Electronic Waste,285,3,3.86
+December,2020,Council District 10,7377,December,Graffiti Removal,1268,5,17.19
+December,2020,Council District 10,7377,December,Homeless Encampment,195,17,2.64
+December,2020,Council District 10,7377,December,Illegal Dumping Pickup,689,4,9.34
+December,2020,Council District 10,7377,December,Metal/Household Appliances,723,3,9.8
+December,2020,Council District 10,7377,December,Multiple Streetlight Issue,11,56,0.15
+December,2020,Council District 10,7377,December,Single Streetlight Issue,26,22,0.35
+December,2020,Council District 11,4181,December,Bulky Items,2662,3,63.67
+December,2020,Council District 11,4181,December,Electronic Waste,155,3,3.71
+December,2020,Council District 11,4181,December,Graffiti Removal,399,4,9.54
+December,2020,Council District 11,4181,December,Homeless Encampment,171,13,4.09
+December,2020,Council District 11,4181,December,Illegal Dumping Pickup,253,6,6.05
+December,2020,Council District 11,4181,December,Metal/Household Appliances,513,3,12.27
+December,2020,Council District 11,4181,December,Multiple Streetlight Issue,10,2,0.24
+December,2020,Council District 11,4181,December,Single Streetlight Issue,18,3,0.43
+December,2020,Council District 12,7136,December,Bulky Items,4599,3,64.45
+December,2020,Council District 12,7136,December,Electronic Waste,350,3,4.9
+December,2020,Council District 12,7136,December,Graffiti Removal,572,2,8.02
+December,2020,Council District 12,7136,December,Homeless Encampment,134,8,1.88
+December,2020,Council District 12,7136,December,Illegal Dumping Pickup,379,3,5.31
+December,2020,Council District 12,7136,December,Metal/Household Appliances,1009,3,14.14
+December,2020,Council District 12,7136,December,Multiple Streetlight Issue,43,40,0.6
+December,2020,Council District 12,7136,December,Single Streetlight Issue,50,27,0.7
+December,2020,Council District 13,6716,December,Bulky Items,3836,3,57.12
+December,2020,Council District 13,6716,December,Electronic Waste,252,2,3.75
+December,2020,Council District 13,6716,December,Graffiti Removal,1276,6,19.0
+December,2020,Council District 13,6716,December,Homeless Encampment,184,18,2.74
+December,2020,Council District 13,6716,December,Illegal Dumping Pickup,531,5,7.91
+December,2020,Council District 13,6716,December,Metal/Household Appliances,584,2,8.7
+December,2020,Council District 13,6716,December,Multiple Streetlight Issue,13,17,0.19
+December,2020,Council District 13,6716,December,Single Streetlight Issue,40,11,0.6
+December,2020,Council District 14,5590,December,Bulky Items,2960,3,52.95
+December,2020,Council District 14,5590,December,Electronic Waste,222,3,3.97
+December,2020,Council District 14,5590,December,Graffiti Removal,1270,6,22.72
+December,2020,Council District 14,5590,December,Homeless Encampment,89,36,1.59
+December,2020,Council District 14,5590,December,Illegal Dumping Pickup,436,6,7.8
+December,2020,Council District 14,5590,December,Metal/Household Appliances,487,3,8.71
+December,2020,Council District 14,5590,December,Multiple Streetlight Issue,23,18,0.41
+December,2020,Council District 14,5590,December,Single Streetlight Issue,103,29,1.84
+December,2020,Council District 15,5662,December,Bulky Items,3604,3,63.65
+December,2020,Council District 15,5662,December,Electronic Waste,294,3,5.19
+December,2020,Council District 15,5662,December,Graffiti Removal,230,2,4.06
+December,2020,Council District 15,5662,December,Homeless Encampment,100,20,1.77
+December,2020,Council District 15,5662,December,Illegal Dumping Pickup,576,7,10.17
+December,2020,Council District 15,5662,December,Metal/Household Appliances,819,3,14.46
+December,2020,Council District 15,5662,December,Multiple Streetlight Issue,15,42,0.26
+December,2020,Council District 15,5662,December,Single Streetlight Issue,24,18,0.42
